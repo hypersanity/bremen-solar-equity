@@ -1,0 +1,15 @@
+flowchart TD
+  P["Prompt from the human user<br/>the research brief"] --> H
+  G["House style guide v0.3<br/>supplied after version 1"] --> W
+  H["Hermes agent<br/>Claude Opus 5.5, reasoning effort medium"]
+  H --> R1["Subagent A<br/>regulation and economics<br/>70 claims, verbatim quotes"]
+  H --> R2["Subagent B<br/>equity literature, Bremen context<br/>70 claims, verbatim quotes"]
+  H --> D["Data pipeline, written and run by the lead agent<br/>solar register, 3.3 GB, 6.64 million units<br/>census 100 m grid, Ortsteilatlas, OSM"]
+  R1 --> L["Citation ledger<br/>140 quotes re-checked word for word, 0 failures"]
+  R2 --> L
+  D --> A["GIS analysis<br/>40 postcodes, Gini, regressions, Moran's I<br/>validated against official totals"]
+  A --> V1["Version 1 report<br/>maps, tables, PDF"]
+  L --> V1
+  V1 --> W["Rewrite to the style guide<br/>Harvard citations, scripted reconciliation"]
+  W --> Q["Subagent C, independent reviewer<br/>33 fixes, 4 author notes"]
+  Q --> V2["Version 2 report<br/>PDF, HTML, interactive map"]

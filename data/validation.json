@@ -1,0 +1,89 @@
+{
+ "grid_pop_total": 692413,
+ "official_pop_total_Land": 693204,
+ "grid_hh_total": 348170,
+ "official_hh_total_Land": 349406,
+ "pop_ratio": 0.9989,
+ "hh_ratio": 0.9965,
+ "owner_rate_ortsteil_validation": {
+  "n": 79,
+  "pearson_r": 0.919,
+  "mean_abs_diff_pp": 6.67,
+  "median_diff_pp": 5.21
+ },
+ "sensitivity": {
+  "A_haushalt_le30": {
+   "units": 9276,
+   "spearman_vs_main": 0.999,
+   "spearman_vs_owner_rate": 0.91,
+   "top5": [
+    "28355",
+    "28357",
+    "28279",
+    "27578",
+    "28307"
+   ],
+   "bottom5": [
+    "28195",
+    "27568",
+    "28217",
+    "28199",
+    "27570"
+   ]
+  },
+  "B_all_building_pv_le30_any_use": {
+   "units": 10399,
+   "spearman_vs_main": 0.996,
+   "spearman_vs_owner_rate": 0.9,
+   "top5": [
+    "28355",
+    "28357",
+    "28279",
+    "27578",
+    "28307"
+   ],
+   "bottom5": [
+    "27568",
+    "28195",
+    "28199",
+    "28217",
+    "27570"
+   ]
+  },
+  "C_haushalt_incl_planned": {
+   "units": 9688,
+   "spearman_vs_main": 0.999,
+   "spearman_vs_owner_rate": 0.9,
+   "top5": [
+    "28355",
+    "28357",
+    "28279",
+    "27578",
+    "28307"
+   ],
+   "bottom5": [
+    "28195",
+    "27568",
+    "28217",
+    "28199",
+    "27570"
+   ]
+  },
+  "main": {
+   "top5": [
+    "28355",
+    "28357",
+    "28279",
+    "27578",
+    "28307"
+   ],
+   "bottom5": [
+    "28195",
+    "27568",
+    "28217",
+    "28199",
+    "27570"
+   ]
+  }
+ }
+}

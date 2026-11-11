@@ -1,0 +1,87 @@
+{
+ "roof ~ 1-2fam + income (Stadt Bremen)": {
+  "n": 33,
+  "r2": 0.88,
+  "coefs": {
+   "share_dw_1_2_family_pct": [
+    0.812,
+    0.0
+   ],
+   "median_income_keur_ot_weighted": [
+    0.279,
+    0.01
+   ]
+  },
+  "vif": {
+   "share_dw_1_2_family_pct": 1.11,
+   "median_income_keur_ot_weighted": 1.11
+  }
+ },
+ "roof ~ owner + income (Stadt Bremen)": {
+  "n": 33,
+  "r2": 0.799,
+  "coefs": {
+   "owner_rate_pct": [
+    0.748,
+    0.0
+   ],
+   "median_income_keur_ot_weighted": [
+    0.318,
+    0.0351
+   ]
+  },
+  "vif": {
+   "owner_rate_pct": 1.09,
+   "median_income_keur_ot_weighted": 1.09
+  }
+ },
+ "plug ~ 1-2fam + income (Stadt Bremen)": {
+  "n": 33,
+  "r2": 0.896,
+  "coefs": {
+   "share_dw_1_2_family_pct": [
+    0.954,
+    0.0
+   ],
+   "median_income_keur_ot_weighted": [
+    -0.023,
+    0.8296
+   ]
+  },
+  "vif": {
+   "share_dw_1_2_family_pct": 1.11,
+   "median_income_keur_ot_weighted": 1.11
+  }
+ },
+ "roof per 100 1-2fam bld ~ income (Stadt Bremen)": {
+  "n": 33,
+  "r2": 0.413,
+  "coefs": {
+   "median_income_keur_ot_weighted": [
+    0.643,
+    0.0003
+   ]
+  },
+  "vif": {
+   "median_income_keur_ot_weighted": 1.0
+  }
+ },
+ "roof ~ 1-2fam + Bremerhaven dummy (Land)": {
+  "n": 40,
+  "r2": 0.843,
+  "coefs": {
+   "share_dw_1_2_family_pct": [
+    0.918,
+    0.0
+   ],
+   "bhv": [
+    0.226,
+    0.0
+   ]
+  },
+  "vif": {
+   "share_dw_1_2_family_pct": 1.02,
+   "bhv": 1.02
+  }
+ }
+}

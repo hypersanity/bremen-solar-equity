@@ -1,0 +1,59 @@
+{
+ "Land Bremen": {
+  "households": 348170,
+  "roof_units": 9401,
+  "roof_kw": 81678.3,
+  "plug_units": 8313,
+  "roof_per_1k": 27.0,
+  "plug_per_1k": 23.9,
+  "roof_W_per_hh": 234.6
+ },
+ "Stadt Bremen (PLZ 28xxx)": {
+  "households": 287808,
+  "roof_units": 7557,
+  "roof_kw": 65307.1,
+  "plug_units": 7044,
+  "roof_per_1k": 26.3,
+  "plug_per_1k": 24.5,
+  "roof_W_per_hh": 226.9
+ },
+ "Bremerhaven (PLZ 275xx)": {
+  "households": 60362,
+  "roof_units": 1844,
+  "roof_kw": 16371.2,
+  "plug_units": 1269,
+  "roof_per_1k": 30.5,
+  "plug_per_1k": 21.0,
+  "roof_W_per_hh": 271.2
+ },
+ "roof_battery_share_overall": 0.619,
+ "roof_median_kw": 7.31,
+ "plug_median_kw": 0.86,
+ "roof_gt30_units": 126,
+ "roof_gt30_kw": 5739.6,
+ "mastr_snapshot": "Gesamtdatenexport 2026-11-08",
+ "roof_per_1k_range": [
+  1.7,
+  "28195",
+  104.4,
+  "28355"
+ ],
+ "roof_max_min_ratio": 60.7,
+ "plug_per_1k_range": [
+  3.4,
+  "27568",
+  59.9,
+  "28307"
+ ],
+ "plug_max_min_ratio": 17.7,
+ "gini_roof_per_1k_hh": 0.432,
+ "gini_plug_per_1k_hh": 0.314,
+ "CI_income_roof_per_1k_hh": 0.2,
+ "CI_owner_roof_per_1k_hh": 0.396,
+ "CI_income_plug_per_1k_hh": 0.088,
+ "CI_owner_plug_per_1k_hh": 0.275,
+ "q5_q1_ratio_roof_owner": 8.05,
+ "q5_q1_ratio_plug_owner": 4.83,
+ "q5_q1_ratio_roof_income": 2.55,
+ "q5_q1_ratio_plug_income": 1.7
+}

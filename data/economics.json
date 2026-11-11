@@ -1,0 +1,102 @@
+{
+ "roof_base: 900 kWh/kWp, 30% SC, FIT": {
+  "capex": 14560,
+  "gen_kwh": 7200,
+  "saving_eur": 806.0,
+  "feedin_eur": 388.0,
+  "annual_eur": 1194.0,
+  "payback_yr": 12.2
+ },
+ "roof_40% SC, FIT": {
+  "capex": 14560,
+  "gen_kwh": 7200,
+  "saving_eur": 1074.0,
+  "feedin_eur": 333.0,
+  "annual_eur": 1407.0,
+  "payback_yr": 10.3
+ },
+ "roof_30% SC, feed-in worth 0 (no FIT)": {
+  "capex": 14560,
+  "gen_kwh": 7200,
+  "saving_eur": 806.0,
+  "feedin_eur": 0.0,
+  "annual_eur": 806.0,
+  "payback_yr": 18.1
+ },
+ "roof_lower yield 800, 30% SC, FIT": {
+  "capex": 14560,
+  "gen_kwh": 6400,
+  "saving_eur": 716.0,
+  "feedin_eur": 345.0,
+  "annual_eur": 1061.0,
+  "payback_yr": 13.7
+ },
+ "roof_price 30 ct, 30% SC, FIT": {
+  "capex": 14560,
+  "gen_kwh": 7200,
+  "saving_eur": 648.0,
+  "feedin_eur": 388.0,
+  "annual_eur": 1036.0,
+  "payback_yr": 14.1
+ },
+ "capex_share_of_median_income_28237": 0.88,
+ "capex_share_of_median_income_28355": 0.33,
+ "plug_grid": [
+  {
+   "yield_kwh_per_kwp": 500,
+   "self_consumption": 0.4,
+   "price": 400,
+   "annual_eur": 60.0,
+   "payback_yr": 6.7
+  },
+  {
+   "yield_kwh_per_kwp": 500,
+   "self_consumption": 0.4,
+   "price": 600,
+   "annual_eur": 60.0,
+   "payback_yr": 10.1
+  },
+  {
+   "yield_kwh_per_kwp": 500,
+   "self_consumption": 0.7,
+   "price": 400,
+   "annual_eur": 104.0,
+   "payback_yr": 3.8
+  },
+  {
+   "yield_kwh_per_kwp": 500,
+   "self_consumption": 0.7,
+   "price": 600,
+   "annual_eur": 104.0,
+   "payback_yr": 5.7
+  },
+  {
+   "yield_kwh_per_kwp": 700,
+   "self_consumption": 0.4,
+   "price": 400,
+   "annual_eur": 84.0,
+   "payback_yr": 4.8
+  },
+  {
+   "yield_kwh_per_kwp": 700,
+   "self_consumption": 0.4,
+   "price": 600,
+   "annual_eur": 84.0,
+   "payback_yr": 7.2
+  },
+  {
+   "yield_kwh_per_kwp": 700,
+   "self_consumption": 0.7,
+   "price": 400,
+   "annual_eur": 146.0,
+   "payback_yr": 2.7
+  },
+  {
+   "yield_kwh_per_kwp": 700,
+   "self_consumption": 0.7,
+   "price": 600,
+   "annual_eur": 146.0,
+   "payback_yr": 4.1
+  }
+ ]
+}
