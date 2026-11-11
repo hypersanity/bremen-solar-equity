@@ -1,0 +1,11 @@
+# Machine-generated outputs. GitHub collapses these by default in pull-request
+# diffs and leaves them out of the language statistics. They stay fully
+# viewable: click "Load diff" or open the file.
+data/** linguist-generated
+evidence/** linguist-generated
+report/Bremen_solar_equity_study.html linguist-generated
+report/Bremen_solar_equity_study.pdf linguist-generated
+figures/** linguist-generated
+docs/diagrams/*.svg linguist-generated
+LICENSE-CC-BY-4.0.txt linguist-generated
+LICENSE-ODbL-1.0.txt linguist-generated
