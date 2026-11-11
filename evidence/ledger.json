@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/was-kostet-eine-photovoltaikanlage-49155",
+      "title": "Verbraucherzentrale: Was kostet eine Photovoltaikanlage?",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "| Durchschnittlicher Preis pro kWp (gerundet) | 2.090 €/kWp | 1.820 €/kWp | 1.520 €/kWp | 1.410 €/kWp | 1.290 €/kWp | 1.240 €/kWp | 1.220 €/kWp | 1.010 €/kWp |",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Grundlage ist die Auswertung von 71 echten Angeboten aus dem Zeitraum Januar 2025 bis August 2026, welche die Energieberater:innen der Verbraucherzentrale NRW bei Beratungen gesichtet haben.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "| Durchschnittlicher Preis pro kWh (gerundet) | 510 €/kWh | 480 €/kWh | 410 €/kWh | 390 €/kWh | 360 €/kWh |",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+      "title": "Fraunhofer ISE: Stromgestehungskosten erneuerbare Energien (Juli 2024)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die spezifischen Anla- genkosten liegen derzeit zwischen 700 und 2000 EUR/kWp und sind größtenteils gestiegen, insbesondere bei kleinen Anlagen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Stromgestehungskosten für PV-Batteriesysteme variieren zwischen 6,0 und 22,5 €Cent/kWh.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.verbraucherzentrale.sh/wissen/energie/balkon-pv-stecker-solar-als-alternative",
+      "title": "Verbraucherzentrale Schleswig-Holstein: Balkonkraftwerk – Steckersolar als Alternative fürs Mehrfamilienhaus",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Ein Steckersolargerät mit Standard-Modul kostet etwa zwischen 200 und 600 Euro. Seit dem 1. Januar 2023 sind diese Produkte mit einem Umsatzsteuersatz von 0 Prozent versehen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "So könnte sich ein Solargerät in der Größenordnung von 500 Watt mit einem Gesamtpreis von 450 Euro nach sechs bis acht Jahren als lohnend herausstellen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__12.html",
+      "title": "§ 12 UStG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die Voraussetzungen des Satzes 1 gelten als erfüllt, wenn die installierte Bruttoleistung der Photovoltaikanlage laut Marktstammdatenregister nicht mehr als 30 Kilowatt (peak) beträgt oder betragen wird;",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.gesetze-im-internet.de/estg/__3.html",
+      "title": "§ 3 EStG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "72. die Einnahmen und Entnahmen im Zusammenhang mit dem Betrieb von auf, an oder in Gebäuden (einschließlich Nebengebäuden) vorhandenen Photovoltaikanlagen, wenn die installierte Bruttoleistung laut Marktstammdatenregister bis zu 30 Kilowatt (peak) je Wohn- oder Gewerbeeinheit und insgesamt höchstens 100 Kilowatt (peak) pro Steuerpflichtigem oder Mitunternehmerschaft beträgt.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.gesetze-im-internet.de/messbg/__30.html",
+      "title": "§ 30 MsbG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "an Messstellen an Zählpunkten von Anlagen mit einer installierten Leistung von mehr als 7 Kilowatt bis einschließlich 15 Kilowatt für den Messstellenbetrieb für jeden Zählpunkt insgesamt brutto jährlich nicht mehr als 130 Euro in Rechnung gestellt werden",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "ist für die Zeit ab dem 1. Januar 2025 wirtschaftlich vertretbar, wenn vom grundzuständigen Messstellenbetreiber brutto jährlich nicht mehr als 60 Euro in Rechnung gestellt werden",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__8.html",
+      "title": "§ 8 EEG 2023",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Netzbetreiber müssen ein Webportal zur Verfügung stellen, über das das Netzanschlussbegehren nach Satz 1 gestellt und die Informationen nach Satz 2 Nummer 2 übermittelt werden können.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://wesernetz.de/fuer-einspeiser/anlagen-anmeldung/anmeldung-pv-anlagen",
+      "title": "wesernetz: Anmeldung von Photovoltaikanlagen",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Bitte beachten Sie, dass die Anmeldung ausschließlich durch einen eingetragenen Installateur oder Fachplaner vorgenommen werden kann - für Privatkunden ist die Anmeldung im Netzportal nicht möglich.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Wir prüfen die Anschlussmöglichkeit für Ihre Photovoltaikanlage und erteilen Ihnen dann die Einspeisezusage. Die Meldung und Überprüfung sind für Sie kostenlos.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Registrierung im Marktstammdatenregister muss spätestens einen Monat nach der Inbetriebnahme der Anlage erfolgt sein.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Foerderung/start.html",
+      "title": "Bundesnetzagentur: EEG-Förderung und -Fördersätze",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "| Gebäude oder Lärmschutzwände<br>(§ 48 Abs. 2, 2a EEG 2023) | 10 | 7,70 | 12,22 |",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bei Inbetriebnahme ab 1. August 2026 bis 31. Dezember 2026 (§ 21 Abs. 1,i.V.m. §§ 48, 49, 53 Abs. 1 EEG 2023)",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Veröffentlichung der Fördersätze und anzulegenden Werte, die für neu in Betrieb genommene Anlagen angewendet werden, basiert auf dem EEG 2023, das bis zum 31. Dezember 2026 anwendbar ist. Eine Nachfolgeregelung für die Zeit nach dem 31. Dezember 2026 befindet sich aktuell in der parlamentarischen Beratung.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "| 10 | 2,51 |",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__51.html",
+      "title": "§ 51 EEG 2023",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "(1) Für Zeiträume, in denen der Spotmarktpreis negativ ist, verringert sich der anzulegende Wert auf null.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+      "title": "§ 9 EEG 2023",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "die eine installierte Leistung von weniger als 25 Kilowatt haben, oder von KWK-Anlagen, die jeweils eine installierte Leistung von weniger als 25 Kilowatt haben, am Verknüpfungspunkt dieser Anlagen mit dem Netz jeweils die maximale Wirkleistungseinspeisung auf 60 Prozent der installierten Leistung begrenzen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Sätze 1 und 2 sind nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung von insgesamt bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter der Entnahmestelle eines Letztverbrauchers betrieben werden.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+      "title": "BT-Drs. 21/7867 Gesetzentwurf EEG-Novelle 2027",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Dafür wird die fixe Einspeisevergü- tung für Neuanlagen konsequent abgeschafft.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Förderung für Neuanlagen von weniger als 25 Kilowatt installierter Leistung wird weitgehend eingestellt.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Satz 1 ist nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung der Solaranlage oder der Solaranlagen von insgesamt bis zu 2 Kilowatt",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Nach § 100 Absatz 1 Nummer 1 Buchstabe a EEG 2027 gelten als Bestandsanlagen solche Anlagen, die vor dem 1. Januar 2027 in Betrieb genommen wurden.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stromsektor-1211294",
+      "title": "Deutscher Bundestag Textarchiv KW39 2026",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Der Bundestag hat am Donnerstag, 24. September 2026 , in erster Lesung den Gesetzentwurf der Bundesregierung",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Sie spricht sich unter anderem gegen die geplante Abschaffung der Einspeisevergütung bei Solaranlagen auf Dächern bis 2032 aus und fordert, „den PV-Aufdachausbau weiterhin anzureizen“.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__42a.html",
+      "title": "§ 42a EnWG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Für Mieter von Wohnräumen darf der für den Mieterstrom und den zusätzlichen Strombezug nach Absatz 2 Satz 6 zu zahlende Preis 90 Prozent des in dem jeweiligen Netzgebiet geltenden Grundversorgungstarifs, auf Basis des Grund- und Arbeitspreises, nicht übersteigen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__42b.html",
+      "title": "§ 42b EnWG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "(3) Der Betreiber der Gebäudestromanlage ist nicht verpflichtet, die umfassende Versorgung der teilnehmenden Letztverbraucher mit Strom sicherzustellen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "die Strombezugsmengen des Letztverbrauchers viertelstündlich gemessen werden",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/steckersolar-solarstrom-vom-balkon-direkt-in-die-steckdose-44715",
+      "title": "Verbraucherzentrale: Steckersolar",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die gesetzlichen Leistungsgrenzen betragen maximal 800 Watt (AC) am Wechselrichter und maximal 2.000 Watt (p) für die angeschlossenen Module.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/gesetze-und-normen-fuer-steckersolar-was-gilt-was-gilt-noch-nicht-90740",
+      "title": "Verbraucherzentrale: Gesetze und Normen für Steckersolar",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Ein Steckersolar-Gerät muss jetzt nicht mehr beim lokalen Stromnetzbetreiber angemeldet werden.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Der neue Anmeldeprozess beschränkt sich neben den Angaben zum Betreiber auf nur fünf technische Angaben: Leistung der Module, Leistung des Wechselrichters, Standort, Inbetriebnahmedatum und Stromzählernummer.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+      "title": "§ 554 BGB",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Der Mieter kann verlangen, dass ihm der Vermieter bauliche Veränderungen der Mietsache erlaubt, die dem Gebrauch durch Menschen mit Behinderungen, dem Laden elektrisch betriebener Fahrzeuge, dem Einbruchsschutz oder der Stromerzeugung durch Steckersolargeräte dienen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+      "title": "§ 20 WEG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Jeder Wohnungseigentümer kann angemessene bauliche Veränderungen verlangen, die",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://umwelt.bremen.de/klima/energie/bremisches-solargesetz-bremsolarg-2155612",
+      "title": "SUKW Bremen: Bremisches Solargesetz",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Es legt eine allgemeine Pflicht für Bauherr*innen fest, ab dem 1. Juli 2025 auf mindestens 50 Prozent der Dachfläche von Neubauten Photovoltaikanlagen zu installieren und zu betreiben.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bei grundlegenden Dachsanierungen von bestehenden Gebäuden besteht ab dem 1. Juli 2024 eine anlassbezogene Pflicht innerhalb von zwei Jahren nach Abschluss der Dachsanierung eine oder mehrere Photovoltaikanlagen mit einer Modulleistung von mindestens 1 kW und einer Wechselrichterleistung von mindestens 1.000 VA zu installieren.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen203.c.236059.de&template=00_html_to_pdf_d",
+      "title": "BremSolarG (Fassung 29.05.2024)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "die Finanzierung der Photovoltaikanlage nicht möglich ist.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Gebäude, deren Dachfläche nach § 3 50 Quadratmeter unterschreitet,",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 5 000 Euro je baulicher Anlage, für die ein Verstoß nach Absatz 1 festgestellt ist, geahndet werden.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://energiekonsens.de/aktuelles/solar-foerderprogramm-fuer-private-haushalte-in-bremerhaven-eingestellt",
+      "title": "energiekonsens (Bremen climate agency)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Private Haushalte in Bremerhaven konnten sich ab Januar 2023 die Anschaffung einer Photovoltaik-Anlage unter bestimmten Voraussetzungen mit 25% der Kosten bezuschussen lassen. Nun wurde das Förderprogramm beendet.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Der Zinssatz liegt derzeit bei etwas 4,3 % und ist damit deutlich günstiger als das KFW Programm 270 „Erneuerbare Energien Standard“ welches zwischen 5,21 und 12,03% liegt",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://www.weser-kurier.de/bremen/wirtschaft/bremen-balkon-solargeraete-sind-in-bremen-privatsache-doc7oxj00dqbpv12zkoqhlg",
+      "title": "Weser-Kurier (newspaper, secondary) 22.02.2023",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "sind Balkonkraftwerke davon aber ausgeschlossen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://www.bab-bremen.de/de/page/programm/rund-ums-haus",
+      "title": "BAB: Kredite rund ums Haus",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Annuitätendarlehen bis zu 50.000 €",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Wechselrichter (>800 Watt Gesamt-Wechselrichterleistung)",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://www.bremische-buergerschaft.de/dokumente/wp20/land/drucksache/D20L1418.pdf",
+      "title": "Bremische Bürgerschaft Drs. 20/1418",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "in Kombination mit Energiesparberatungen ein Pilotprogramm zur Bezuschussung der Anschaffung von Balkonsolaranlagen für Mieter:innen, insbesondere für Sozialleistungs- und Wohngeldempfänger:innen,",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+      "title": "Drs. 21/222 Mitteilung des Senats",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Zum Zeitpunkt der Berichterstattung ist kein Pilotförderprogramm in Umsetzung. Somit ist kein Antragseingang zu berichten.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Die Fokussierung der Zielgruppe der Sozial- und Transferleistungsempfänger:innen erfordert nach Beratung mit dem Sozialressort eine Vollförderung der Balkon- Photovoltaik- Anlagen",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Transferleistungsbezieher:innen sowie BAföG-Empfänger:innen die Anschaffung einer steckerfertigen Photovoltaik-Anlage zu einem Eigenanteil von 100 Euro ermöglicht.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Es wird ein Ausbau auf 1 000 Megawatt bis 2038 angestrebt.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Im Zeitraum 2019 bis 2023 ist die potenzielle Solarstrom-Leistung im Land Bremen von 46,2 MWp (Milliwatt Peak) auf 89,5 MWp (Stand 30. September 2023) gestiegen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Insgesamt waren bis zum Stichtag, dem 24. November 2023, im Land Bremen 1 463 steckerfertige Photovoltaik-Anlagen gemeldet.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://bremer-solidarstrom.de/solidarische_balkonkraftwerke",
+      "title": "Bremer SolidarStrom (NGO page – not official)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Aktuell können wir dank Fördergeldern des Bremer Klimafonds und des Bremer Umweltressorts wieder Balkonkraftwerke an Menschen mit geringem Einkommen verschenken.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Darüber hinaus engagieren wir uns auch dafür, dass die vor Jahren politisch beschlossene soziale Balkonkraftwerksförderung im Land Bremen auch endlich umgesetzt wird.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://solar-in-bremen.de",
+      "title": "solar-in-bremen.de (energiekonsens)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "dank Förderung der Senatorin für Umwelt, Klima und Wissenschaft für Sie kostenlos.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse",
+      "title": "BDEW-Strompreisanalyse",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Der durchschnittliche Strompreis für Haushalte ist 2026 im Vergleich zum Vorjahr gesunken und beträgt bisher durchschnittlich 37,3 ct/kWh.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Steigende Großhandelspreise infolge des Iran-Kriegs machen sich zum 1. Oktober 2026 auch in den Neukundentarifen bemerkbar.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf",
+      "title": "Fraunhofer ISE: Aktuelle Fakten zur Photovoltaik (Fassung 20.8.2026)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Haushalte erreichen abhängig von der Anlagengrößen 20 – 40 % Eigenverbrauch bezogen auf den erzeugten Strom [HTW1].",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Mit stationären Batterien können Haushalte ihren Eigenverbrauch von PV-Strom in die Abendstunden ausdehnen und damit massiv erhöhen (typischerweise verdoppeln, s. Abbildung 50).",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Neue MW-Kraftwerke produzieren PV-Strom zu Kosten von ca. 4 – 7 ct/kWh, bei kleinen Dachanlagen liegt die Spanne im Bereich von 6 – 14 ct/kWh [ISE1].",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Fassung vom 20.8.2026",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "von 85 % würde ohne jegliche Abregelung ca. 1080 VBh erreichen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://solar.htw-berlin.de/rechner/stecker-solar-simulator",
+      "title": "HTW Berlin Stecker-Solar-Simulator",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Zusätzlich ermittelt der Simulator unter Berücksichtigung der Gegebenheiten vor Ort die Stromgestehungskosten Ihres Solarstroms sowie die Amortisationszeit.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://www.wesernetz.de/impressum",
+      "title": "wesernetz Impressum",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Geschäftsführung wesernetz Bremen GmbH und wesernetz Bremerhaven GmbH",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://www.wesernetz.de/fuer-partner/energielieferanten/stromnetz/strukturdaten-des-bremer-und-bremerhavener-stromnetzes",
+      "title": "wesernetz Strukturdaten",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Es liegen derzeit keine Engpässe im Netzgebiet der wesernetz Bremen GmbH vor. Es bestehen zur Zeit keine Engpässe im Netzgebiet der wesernetz Bremerhaven GmbH.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__14e.html",
+      "title": "§ 14e EnWG",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "(4) Betreiber von Elektrizitätsverteilernetzen veröffentlichen auf der gemeinsamen Internetplattform mindestens Folgendes:",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://vnbdigital.de/vnb/7203",
+      "title": "VNBdigital – wesernetz",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "wesernetz Bremen GmbH stellt ab dem 30.04.2024 hier aufgrund der gesetzlichen Vorgaben des §14d EnWG den jeweils aktuellen Netzausbauplan zur Einsicht vor.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://www.weser-kurier.de/bremen/wirtschaft/herausforderungen-fuer-pv-anlagen-in-bremen-netzausbau-noetig-doc7yf6da2unzqpa2emdjy",
+      "title": "Weser-Kurier 11.12.2024 (newspaper – secondary)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Wesernetz sagt, dass alle neuen Anlagen zum gegenwärtigen Zeitpunkt auch angeschlossen werden können – das Unternehmen kann eben nur nicht den Zeitpunkt nennen angesichts von Wartezeiten, die zum Teil über ein halbes Jahr hinausgehen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://www.wesernetz.de/fuer-einspeiser/informationen",
+      "title": "wesernetz: Informationen für Einspeiser",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Erzeugungsanlagen wie steckerfertige Erzeugungsanlagen (Balkonkraftwerke, Mini-PV), größere Photovoltaik- oder Solaranlagen sowie Blockheizkraft-, Windkraft- oder Wasserkraftanlagen müssen beim Netzbetreiber angemeldet werden.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://pv-magazine.de/2026/10/15/bundestag-wird-eeg-2027-und-netzpaket-wohl-erst-im-november-verabschieden",
+      "title": "pv magazine 15.10.2026 (trade press – secondary)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Der BEE rechnet nun damit, dass das EEG und Netzpaket erst im November verabschiedet werden können",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+      "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The median income of 2023 solar adopters ($115k) is 53% higher than for all U.S. households ($75k)",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "solar adopter incomes are only 23% higher if comparing to only OO-HHs ($94k)",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Of this share, 97% are on single family, detached homes, and the remaining 3% are on multi-family homes",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "The remaining 4% of installations are on renter- occupied homes, of which the vast majority (89%) are on single-family homes",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "While solar adoption skews toward high-income households, low- and moderate-income (LMI) households are also adopting. In 2023, roughly half of adopters earned less than 120% of their area’s median income.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "42% have a bachelor’s degree or higher, compared to 37% of all U.S. HHs (or 40% on a weighted average basis)",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://rael.berkeley.edu/wp-content/uploads/2019/01/Sunter-Castellanos-Kammen-Nature-SustainablityDisparitiesPVDeploymentRaceEthnicity.pdf",
+      "title": "Sunter, Castellanos & Kammen (2019), Nature Sustainability 2:71–76",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Black- and Hispanic-majority census tracts show on average significantly less rooftop PV installed. This disparity is often attributed to racial and ethnic differences in household income and home ownership. In this study, significant racial disparity remains even after we account for these differences.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "When correcting for home ownership, black- and Hispanic-majority census tracts have installed less rooftop PV compared with no majority tracts by 61 and 45%, respectively, while white-majority census tracts have installed 37% more.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Since rooftop PV adoption is significantly influenced by spatial neighbouring effects, we hypothesize that the Hispanic-majority census tracts may have been undergoing a delayed seeding process,",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://resources.environment.yale.edu/gillingham/GrazianoGillingham_15_SpatialPatternsPVSystems.pdf",
+      "title": "Graziano & Gillingham (2015), Journal of Economic Geography 15(4):815–839",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "This clustering does not simply follow the spatial distribution of income or population. We find that smaller centers contribute to adoption more than larger urban areas, in a wave-like centrifugal pattern. Our empirical estimation demonstrates a strong relationship between adoption and the number of nearby previously installed systems as well as built environment and policy variables.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "For example, our results indicate that adding one more installation within 0.5 miles of adopting households in the year prior to the adoption increases the number of installations in a block group by 0.44 PV",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://ideas.repec.org/a/eee/jeeman/v78y2016icp38-48.html",
+      "title": "Rode & Weber (2016), Journal of Environmental Economics and Management 78:38–48",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Our study is based on a unique data set of some 576,000 household photovoltaic systems installed in Germany through 2009. We employ an epidemic diffusion model which includes a spatial dimension, and control for temporal and spatial heterogeneity. According to our results, imitative adoption behavior is highly localized and an important factor for the diffusion of household photovoltaic systems.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "url": "http://diw.de/documents/publikationen/73/diw_01.c.596110.de/diw_sp0977.pdf",
+      "title": "Jacksohn, Grösche, Rehdanz & Schröder (2018), SOEPpapers 977 / DIW Berlin (published Energy Economics 2019)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Our results suggest that household decisions to invest in photovoltaic systems and solar thermal facilities are mainly driven by the economic factors. Taking account of sociodemographic and housing characteristics, environmental concern or personality traits has comparatively little relevance,",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "First, we restrict our attention to households owning their accommodation, because only owners can decide whether or not to invest in a renewable facility at their own discretion. Second, we omit households living in high-rise buildings, since it is highly unlikely that they will be able to install a renewable facility on their own account",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://docs.vlaamsparlement.be/docs/biblio/opendigibib/monografie/2016/343_heterogeneity_in_the_adoption_of_photovoltaic_systems.pdf",
+      "title": "De Groote, Pepermans & Verboven (2016), Energy Economics 59:45–57 (working-paper version)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Second, there is a strong unconditional income effect, implying a Matthew effect in the subsidization of PVs. Our third finding is however that this income effect is largely driven by the fact that wealthier households are more likely to adopt because they tend to be higher users, are more frequent house owners, or own houses that are better suited for PV.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://doi.org/10.1016/j.eneco.2015.08.003",
+      "title": "Balta-Ozkan, Yildirim & Connor (2015), Energy Economics",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Empirical results indicate that demand for electricity, population density, pollution levels, education level of households and housing types are among the factors that affect PV uptake in a region.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://solar.htw-berlin.de/studien/nutzung-steckersolar-2022",
+      "title": "HTW Berlin / Verbraucherzentrale NRW, Nutzung von Steckersolargeräten 2022",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die Ergebnisse der Umfrage zeigen, dass über 92 Prozent der Nutzer:innen männlich und größtenteils in einem Alter von über 45 Jahren sind. Des Weiteren haben sie häufiger ein gehobenes Einkommen und meist einen akademischen Hintergrund. Das Steckersolar nur für Mieter:innen interessant ist, konnte die Studie nicht bestätigen. Die Nutzer:innen und Interessierten leben zumeist im Eigentum, etwa in Einfamilienhäusern und etwas häufiger in Landgemeinden.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://solar.htw-berlin.de/wp-content/uploads/BERGNER-2022-Nutzungs-Studie-Steckersolar.pdf",
+      "title": "Bergner (2022), Nutzer:innenstudie Steckersolar 2022, HTW Berlin",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In einer im Jahr 2016 durchgeführten Befragung unter Nutzer:innen und Interessierten waren 80 Prozent Hausei- gentümer:innen, wobei zwei Drittel der Befragten in einem alleinstehenden Einfamilienhaus wohnten.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://www.diw.de/de/diw_01.c.797079.de/s_11964.html",
+      "title": "Winter & Schlesewsky (2019), Energy Policy 132:344–356 (DIW listing)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "We conclude that subsidy costs are almost evenly distributed among the population and are therefore regressive. At the same time, feed-in tariffs are increasingly flowing into higher-income households because PV systems are more prevalent in these households.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://link.springer.com/article/10.1007/s00181-013-0728-z",
+      "title": "On the redistributive effects of Germany’s feed-in tariff, Empirical Economics 46 (2014) 1339–1383",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The redistributive effects of the feed-in tariff are evaluated by means of inequality indices. All the indices indicate that Germany’s feed-in tariff is regressive.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.409391.de/12-41-1.pdf",
+      "title": "DIW Wochenbericht 41/2012, Steigende EEG-Umlage",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Somit wirken alle staatlichen Maßnah- men, die zu einer Steigerung des Strompreises füh- ren (EEG, Stromsteuer, Emissionshandel, Förderung der Kraft-Wärme-Kopplung), grundsätzlich regressiv.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://eldorado.tu-dortmund.de/bitstreams/69a14681-fe88-433a-a339-3c1b7a8d9fcd/download",
+      "title": "Frondel, Sommer & Vance (2015), The burden of Germany's energy transition (TU Dortmund Eldorado record)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Our estimates suggest that in 2012, on average, households at poverty risk allocated 5.5% of their income to power and, hence, paid nearly as much for covering their electricity consumption as for heating purposes.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://www.clearingstelle-eeg-kwkg.de/sites/default/files/2020-05/BT-Drs_19-13430_Mieterstrombericht_nach_%C2%A7_99_des_EEG_2017_0.pdf",
+      "title": "Bundesregierung, Mieterstrombericht nach § 99 EEG 2017, BT-Drs. 19/13430 (2019)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "gister der BNetzA 677 PV-Mieterstromanlagen mit insgesamt rund 13,9 MW gemeldet.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Insgesamt zeigt sich, dass der bishe- rige Zubau von Mieterstromanlagen mit insgesamt rund 14 MW deutlich hinter den Erwartungen bleibt. Aus diesem Grund sind auch die Förderkosten für das Modell nach zwei Jahren gering. Es wird deutlich, dass die Rahmenbedin- gungen aktuell offenbar nicht ausreichen, um Mieterstrom als nennenswertes Segment eines zusätzlichen PV-Zubaus dauerhaft zu etablieren",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Das Modell bleibt damit weit hinter den Erwartungen zurück. Vor diesem Hintergrund ist der 500 MW-Deckel bisher bei weitem nicht zur Anwendung gekommen. Er wurde nur zu gut 1 % ausgenutzt.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2024/IW-Kurzbericht_2024-Mieterstrom.pdf",
+      "title": "IW Köln Kurzbericht 2024 (Breddermann/Henger), Mieterstrom: Großes ungenutztes Potenzial",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Standards in der Zählermethode, eine vereinheitlichte Abrechnung und standardisierte Meldeprozesse bei den über 900 verschiedenen Netzbetreibern sind bisher bundesweit nicht gegeben und werden daher von verschiedenen Marktakteuren gefordert. Als Folge dieser Hemmnisse wird Mieterstrom in vielen Häusern nicht angeboten. Die aktuelle Anzahl der für Mieterstrom gemeldeten Anlagen liegt im Mai 2024 laut Marktstammregister bundesweit bei knapp 9.000.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Insbesondere auf Dächern von Mehrfamilienhäusern werden zu wenige neue PV-Anlagen installiert. Ein zentrales Hemmnis stellen die Regelungen zum Mieterstrom dar.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+      "title": "Ariadne-Analyse (IW Köln, 2025): Gebäude- und Mieterstrom in Deutschland",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Ein erheblicher Kostenfaktor entsteht durch die zusätzlichen Anforderungen an Messtechnik, Abrechnung und Kundenbetreuung. Die gesetzlich festgelegte maximale Vertragslaufzeit von zwei Jahren für Stromverträge – eine Maßnahme des Verbraucher- schutzes – erschwert zudem die langfristige Planungssicherheit für Investoren.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Der Verkauf von Gebäude- und Mieterstrom ist gewerbesteuerpflichtig, was zu einem möglichen Hemmnis für Unternehmen führt, wenn diese ihren Gewerbeertrag nach der sog. erweiterten gewerbesteuerlichen Kürzung (§ 9 Nr. 1 S. 2 ff. GewStG) minimieren kön- nen. Dies betrifft vor allem Wohnungsunternehmen, deren Umsätze hauptsächlich aus Vermietung und Verpachtung stammen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Zudem sollten Mieterhaushalte, die aufgrund der in Deutschland geringen Wohneigentumsquote von 44 % (Zensus 2022) die Mehrheit darstellen, bessere Möglichkeiten erhalten, über PV-Anlagen auf ihrem Ge- bäude an der Energiewende zu partizipieren,",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "In den letzten Jahren wurden beim Mieterstrom zum Teil erhebliche Verbesserungen umgesetzt, die bislang jedoch insgesamt nicht zu einem spürbaren Anstieg des PV-Ausbaus im Geschosswohnungsbau geführt haben (BNetzA 2025c).",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.911098.de/24-33-1.pdf",
+      "title": "DIW Wochenbericht 33/2024, Ausbau der Solarenergie: viel Licht, aber auch Schatten",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Das sogenannte Mieterstrommodell, mit dem Mieter*innen in die Lage versetzt werden sollen, von günstigem, lokal erzeugtem Solarstrom zu profitieren, spielt bisher praktisch keine Rolle.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Neben den Stadtstaaten haben auch einige Flächenländer ihre Freiflä- chenpotenziale noch kaum erschlossen,",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://www.oeko.de/news/aktuelles/mieterinnen-und-mieter-koennen-von-energiewende-profitieren-wenn-die-rahmenbedingungen-stimmen",
+      "title": "Öko-Institut / IÖW / Ecologic (Ecornet Berlin), 2021",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Besonders für Haushalte mit einem geringen Nettoeinkommen ist der günstige Preis der wichtigste Grund, sich für Mieterstrom zu entscheiden. Damit mehr Mieterinnen und Mieter von diesem Angebot profitieren können, müssen aber die Rahmenbedingungen umfassend verbessert werden: Der Förderrahmen muss skalierbar sein, damit auf allen technisch geeigneten Dächern Anlagen wirtschaftlich sind – auch auf kleineren Mehrfamilienhäusern.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://energiekonsens.de/aktuelles/pv-strom-fuer-mehrparteiengebaeude-auf-die-plaetze-fertig-los",
+      "title": "energiekonsens (Bremer Klimaschutzagentur), PV-Strom für Mehrparteiengebäude",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Das Problem: Die meisten Dienstleister winken bei Objekten mit weniger als 20 Wohneinheiten ab. Anbieter muss man bundesweit recherchieren. In Bremen ist bislang erst ein Dienstleister bekannt, der in diesen Markt einsteigt.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Allerdings ist kaum eine Hausverwaltung oder Eigentümergemeinschaft bereit oder in der Lage, den Mess- und Verwaltungsaufwand selbst zu tragen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Im Gegensatz zum typischen Bremer Haus erfreuen sich viele Mehrparteiengebäude links und rechts der Weser einer großen Dachfläche.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://www.statistik.bremen.de/sixcms/media.php/13/04_HB_Regionaltabelle_Geb%C3%A4ude_Wohnungen_Z22_final.xlsx",
+      "title": "Statistisches Landesamt Bremen, Zensus 2022 Regionaltabelle Gebäude & Wohnungen (xlsx; machine-extracted cells)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Bremen, Stadt: Wohnungen in Wohngebäuden (ohne Wohnheime) = 291926; in Gebäuden mit 1 Wohnung = 82670; von Eigentümer/-in bewohnt = 104806; zu Wohnzwecken vermietet = 184897; Eigentümerquote (%) = 36,96",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bremerhaven, Stadt: Wohnungen in Wohngebäuden (ohne Wohnheime) = 63496; in Gebäuden mit 1 Wohnung = 14387; von Eigentümer/-in bewohnt = 18056; zu Wohnzwecken vermietet = 42707; Eigentümerquote (%) = 30,12",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bremen, Stadt: Gebäude mit Wohnraum insgesamt = 122273; freistehendes Haus = 34468; Doppelhaushälfte = 14824; gereihtes Haus = 69448; anderer Gebäudetyp = 3530; Gebäude mit 1 Wohnung = 82670",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bremerhaven, Stadt: Gebäude mit Wohnraum insgesamt = 21765; freistehendes Haus = 12066; Doppelhaushälfte = 2416; gereihtes Haus = 6751; anderer Gebäudetyp = 528; Gebäude mit 1 Wohnung = 14388",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://www.statistik.bremen.de/publikationen/pressemitteilungen/pressemitteilungen-2024/2024-06-25-zensus-2022-durchschnittliche-nettokaltmiete-im-land-bremen-bei-7-34-euro-pro-quadratmeter-55420",
+      "title": "Statistisches Landesamt Bremen, PM 25.06.2024 (Zensus 2022)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Von den Wohnungen waren 62,4 Prozent vermietet, während 33,7 Prozent von Eigentümer:innen bewohnt waren.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Weitere 24,3 Prozent gehörten einer Gemeinschaft von Wohnungseigentümer:innen (dies ist der Fall, wenn ein Gebäude in Eigentumswohnungen aufgeteilt ist). Der Kommune oder einem kommunalen Wohnungsunternehmen gehörten 14,4 Prozent der Wohnungen und privatwirtschaftlichen Wohnungsunternehmen 7,5 Prozent.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://destatis.de/DE/Themen/Gesellschaft-Umwelt/Wohnen/Tabellen/tabelle-eigentumsquote.html",
+      "title": "Destatis, Eigentumsquote nach Bundesländern 2022 (Mikrozensus)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "| Bremen | 341 | 109 | 32,0 |",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://wfb-bremen.de/en/page/bremen-invest/bremen-house",
+      "title": "WFB Bremen, Typical Bremen house (2014)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In Bremen, the decision was made to prohibit this practice. Instead, terraced houses were built, designed as self-contained family homes.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://vahreport.de/images/images_allgemein_25/AKB_KK_6_Seiter_Armut_Klima_final_web_14_02_2025.pdf",
+      "title": "Arbeitnehmerkammer Bremen, KammerKompakt Armut (Feb 2025)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In der Stadt Bremen lebten 2023 mehr als ein Vier- tel der Bürger*innen (27,4 Prozent) mit weniger als 60 Prozent des mittleren Einkommens, in Bremerhaven mehr als ein Drit- tel.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "In der Stadt Bremen leben besonders viele Bürgergeldempfän- ger*innen in den Stadtteilen Blumenthal, Vegesack und Huch- ting sowie in der Vahr. Dort ist etwa jede*r Fünfte auf Bürger- geld angewiesen, in Gröpelingen ist es sogar jede*r Vierte.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Auch in Bremen leben viele von ihnen in Wohnquartieren mit wenig Grünflächen und schlecht gedämm- ten Gebäuden: Letztere sind im Sommer zu heiß und im Win- ter zu kalt, und viele verursachen hohe Energiekosten.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "url": "http://www.biaj.de/images/2023-12-09_personen_in_sgb2-bedarfsgemeinschaften_stadtteile_bremen_ende-2022_biaj-mat-teil-1.pdf",
+      "title": "BIAJ (Schröder), Bremer Stadtteile: Personen in SGB-II-Bedarfsgemeinschaften Ende 2022",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In den Bremer Stadtteilen reichte dieser Anteil von 4,2 Prozent im Stadtteil Oberneuland bis 32,9 Prozent im Stadtteil Gröpelingen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://www.senatspressestelle.bremen.de/sixcms/media.php/13/20251106_Sozialmonitoring_LHB.pdf",
+      "title": "Senat Bremen, Sozialmonitoring für das Land Bremen (Vorlage, Nov 2025)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die Ortsteile mit hohem Status liegen überwiegend im Bremer Osten. • Wie auch in 2018 konzentrieren sich im Bremer Westen Ortsteile mit niedrigem und sehr niedrigem Status.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://www.soziales.bremen.de/sixcms/media.php/13/Sozialmonitoring%202025.pdf",
+      "title": "Senatorin für Soziales, Sozialmonitoring 2025",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Fünf Ortsteile weisen einen sehr niedrigen Status, 15 Ortsteile einen niedrigen Status, 46 Ortsteile einen mittleren Status und 15 Ortsteile einen hohen Status auf.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Im Jahr 2020 war der Anteil der Steuerpflichtigen mit einem Einkommen >125.000 Euro in den Stadtteilen Borgfeld (8,0%), Horn-Lehe (7,6%) und Schwachhausen (5,1%). Am niedrigsten war er in Gröpelingen (0,2%), und in Woltmershausen, Vahr und Huchting mit jeweils 0,5%.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://paritaet-bremen.de/armutsbericht2026",
+      "title": "Paritätischer Bremen, Armutsbericht 2026",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In Bremen steigt die Armutsquote auf 27,5 Prozent, damit bleibt Bremen das Bundesland mit der mit Abstand höchsten Armutsquote.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://gewoba-magazin.de/magazine-page/50-jahre-tenever-vom-problemquartier-zum-familienviertel",
+      "title": "GEWOBA Magazin, 50 Jahre Tenever",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Osterholz-Tenever wurde in den 1970er-Jahren mit mehr als 2.000 Wohnungen als Demonstrativbauvorhaben errichtet.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://www.gewoba.de/presse/mitteilung/gewoba-vorstand-zieht-positive-bilanz-fuer-2024",
+      "title": "GEWOBA press release, Bilanz 2024",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Damit verfügt die GEWOBA aktuell über 62 PV-​Anlagen mit einer Gesamtleistung von knapp 2.000 Kilowatt Peak.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Bis 2029 wollen wir 152 PV-​Anlagen mit einer Gesamtleistung von rund 5.300 Kilowatt Peak betreiben“, erklärt Anja Passlack.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://www.gewoba.de/story-map/themen/umwelt/photovoltaikanlage-krummenacker",
+      "title": "GEWOBA Story-Map, Photovoltaikanlage Krummenacker (2024)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Mithilfe von Photovoltaik wird aus Sonnenenergie bezahlbarer Mieterstrom.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+      "title": "Mitteilung des Senats 19.12.2023 (Photovoltaik-Ausbau), incl. GEWOBA/BREBAU statements",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Aufgrund der gesteigerten Anforderungen der Bremischen Landesbauordnung an die Einhaltung brandschutzrechtlicher Bestimmungen in Hochhäusern (§ 2 Abs. 4 Nr. 1 BremLBO) sind PV-Anlagen dort unzulässig.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Seit dem Jahr 2022 stattet die GEWOBA zwischen 2.000 und 3.000 Wohnungen pro Jahr mit einer neuen Elektroinfrastruktur aus.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Im gebäudeintegrierten Kontext ist ein strategisches Ziel, die kommunalen Wohnungsbauge- sellschaften zu Vorbildern für die Solarnutzung zu machen und auf eine verstärkte Umsetzung von Mieterstrommodellen abzustellen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "In beiden Stadtge- meinden ist ein positiver Wachstumstrend deutlich erkennbar, wobei sich die solare Erschlie- ßung im Stadtgebiet Bremen noch wesentlich schneller entwickelt als in Bremerhaven.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Im Zeitraum 2019 bis 2023 ist die potentielle Solarstrom-Leistung im Land Bremen von 46,2 MWp auf 89,5 MWp (Stand 30.09.2023) gestiegen.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://green-planet-energy.de/presse/artikel/mehr-mieterstrom-fuer-bremen-solarstrom-vom-eigenen-dach-fuer-36-haushalte",
+      "title": "Green Planet Energy press release 13.02.2026 (BREBAU Mieterstrom)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die BREBAU GmbH und die Hamburger Energiegenossenschaft Green Planet Energy versorgen damit 36 Wohneinheiten mit jeweils einer PV-Anlage von 29,7 und in Summe 59,4 Kilowattpeak (kWp).",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/ueber-100-megawatt-photovoltaik-leistung-im-land-bremen-in-betrieb-443538",
+      "title": "Senatspressestelle/energiekonsens PM 18.03.2024",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Der Postleitzahlbereich 28357 – insbesondere in Borgfeld – führt mit 558 PV-Anlagen die Liste an, gefolgt von 27578 (Bremerhaven-Lehe / Leherheide) mit 425 Anlagen und 28279 (Arsten / Habenhausen) mit 417 Anlagen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Erreicht wurde dies mit mehr 5.500 PV-Anlagen in Bremen und weiteren gut 1.400 Anlagen in Bremerhaven.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://umwelt.bremen.de/klima/energie/erneuerbare-energien/solarenergie-23704",
+      "title": "SKUMS, Solarenergie in Bremen (2025/26)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Zusammen liefern sie rund 188 Megawatt Leistung: 150 MW in Bremen und 38 MW in Bremerhaven",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Stecker-Solar-Anlagen boomen – 2025 waren ca. 6300 Balkonkraftwerke in Betrieb",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/welches-dach-hilft-im-kampf-gegen-den-klimawandel-gruen-und-solardachkataster-zeigen-potentiale-fuer-dachbegruenung-und-solarnutzung-328858",
+      "title": "Senatspressestelle PM 07.01.2020, Grün- und Solardachkataster",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Die stadtgebietsweite Sicht zeigt, dass etwa 10 Millionen Quadratmeter Dachflächen in Bremen für eine Solarnutzung gut oder sogar sehr gut geeignet sind. Das bedeutet rund 1.500 Megawatt (MW) Photovoltaik (PV)-Leistung, allerdings nur theoretisch.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Tatsächlich sind aktuell in Bremen 36 MW PV-Leistung am Netz, also um die 10 Prozent des realistischen Potenzials.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://www.marktstammdatenregister.de/MaStRHilfe/subpages/schutzFreigabe.html",
+      "title": "MaStR-Webhilfe: Schutz und Freigabe vertraulicher Daten",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Standortdaten (Straße, Hausnummer, Geokoordinaten) von Solaranlagen kleiner oder gleich 30 kWp werden nicht veröffentlicht.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Zensus2022/_publikationen.html",
+      "title": "Destatis: Zensus 2022 Gitterdaten zum Download",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Jedes ZIP-Archiv enthält die Daten des Themas für das 10km-, 1km- und 100m-Gitter als csv-Datei sowie eine ausführliche Datensatzbeschreibung als Excel-Datei.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://www.statistik.bremen.de/datenangebote/bremer-ortsteilatlas-15228",
+      "title": "Statistisches Landesamt Bremen: Bremer Ortsteilatlas",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Mehr als 180 Kennzahlen aus insgesamt 20 Themenbereichen zeigen differenziert die Lebensumstände in der Stadt auf.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://www.marktstammdatenregister.de/MaStR/Datendownload",
+      "title": "Bundesnetzagentur: MaStR Datendownload (Gesamtdatenexport)",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Hier können Sie die gesamten öffentlichen Daten des Marktstammdatenregisters herunterladen. Die Daten werden im XML Format bereitgestellt.",
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

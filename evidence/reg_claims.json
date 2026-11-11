@@ -1,0 +1,646 @@
+{
+ "claims": [
+  {
+   "topic": "1 Upfront cost",
+   "claim": "VZ NRW price index (71 real offers, Jan 2025–Aug 2026): average turnkey price per kWp for rooftop PV (without battery) falls with size: ~2,090 €/kWp for 4–6 kWp, 1,410 €/kWp for >9–10 kWp, 1,010 €/kWp for >16 kWp.",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/was-kostet-eine-photovoltaikanlage-49155",
+   "title": "Verbraucherzentrale: Was kostet eine Photovoltaikanlage?",
+   "quote": "| Durchschnittlicher Preis pro kWp (gerundet) | 2.090 €/kWp | 1.820 €/kWp | 1.520 €/kWp | 1.410 €/kWp | 1.290 €/kWp | 1.240 €/kWp | 1.220 €/kWp | 1.010 €/kWp |",
+   "evidence_file": "reg_vz_pv_kosten.txt",
+   "date_or_status": "Stand 28 Aug 2026"
+  },
+  {
+   "topic": "1 Upfront cost",
+   "claim": "Basis of the VZ price index: 71 real offers Jan 2025–Aug 2026 reviewed by VZ NRW energy advisers.",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/was-kostet-eine-photovoltaikanlage-49155",
+   "title": "Verbraucherzentrale: Was kostet eine Photovoltaikanlage?",
+   "quote": "Grundlage ist die Auswertung von 71 echten Angeboten aus dem Zeitraum Januar 2025 bis August 2026, welche die Energieberater:innen der Verbraucherzentrale NRW bei Beratungen gesichtet haben.",
+   "evidence_file": "reg_vz_pv_kosten.txt",
+   "date_or_status": "Stand 28 Aug 2026"
+  },
+  {
+   "topic": "1 Upfront cost",
+   "claim": "VZ battery storage price index (70 offers): ~510 €/kWh for 4–6 kWh down to ~360 €/kWh for >12–16 kWh.",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/was-kostet-eine-photovoltaikanlage-49155",
+   "title": "Verbraucherzentrale: Was kostet eine Photovoltaikanlage?",
+   "quote": "| Durchschnittlicher Preis pro kWh (gerundet) | 510 €/kWh | 480 €/kWh | 410 €/kWh | 390 €/kWh | 360 €/kWh |",
+   "evidence_file": "reg_vz_pv_kosten.txt",
+   "date_or_status": "Stand 28 Aug 2026"
+  },
+  {
+   "topic": "1 Upfront cost",
+   "claim": "Fraunhofer ISE LCOE study (July 2024, latest edition found): specific PV system costs 700–2,000 EUR/kWp, risen especially for small systems; battery systems 400–1,000 EUR/kWh.",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+   "title": "Fraunhofer ISE: Stromgestehungskosten erneuerbare Energien (Juli 2024)",
+   "quote": "Die spezifischen Anla- genkosten liegen derzeit zwischen 700 und 2000 EUR/kWp und sind größtenteils gestiegen, insbesondere bei kleinen Anlagen.",
+   "evidence_file": "reg_ise_lcoe2024.txt",
+   "date_or_status": "July 2024"
+  },
+  {
+   "topic": "1 Upfront cost",
+   "claim": "Plug-in PV (Steckersolargerät) with a standard module costs roughly 200–600 €; 0% VAT since 1 Jan 2023.",
+   "url": "https://www.verbraucherzentrale.sh/wissen/energie/balkon-pv-stecker-solar-als-alternative",
+   "title": "Verbraucherzentrale Schleswig-Holstein: Balkonkraftwerk – Steckersolar als Alternative fürs Mehrfamilienhaus",
+   "quote": "Ein Steckersolargerät mit Standard-Modul kostet etwa zwischen 200 und 600 Euro. Seit dem 1. Januar 2023 sind diese Produkte mit einem Umsatzsteuersatz von 0 Prozent versehen.",
+   "evidence_file": "reg_vzsh_balkon_mfh.txt",
+   "date_or_status": "Stand 23 Jul 2026"
+  },
+  {
+   "topic": "2 Tax/fees",
+   "claim": "0% VAT on supply and installation of PV modules, essential components and storage for systems on/near dwellings; deemed met if ≤30 kWp gross per MaStR (§12 Abs. 3 UStG).",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__12.html",
+   "title": "§ 12 UStG",
+   "quote": "Die Voraussetzungen des Satzes 1 gelten als erfüllt, wenn die installierte Bruttoleistung der Photovoltaikanlage laut Marktstammdatenregister nicht mehr als 30 Kilowatt (peak) beträgt oder betragen wird;",
+   "evidence_file": "reg_ustg12.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "2 Tax/fees",
+   "claim": "Income-tax exemption for income from building-mounted PV ≤30 kWp per residential/commercial unit, max 100 kWp per taxpayer (§3 Nr. 72 EStG).",
+   "url": "https://www.gesetze-im-internet.de/estg/__3.html",
+   "title": "§ 3 EStG",
+   "quote": "72. die Einnahmen und Entnahmen im Zusammenhang mit dem Betrieb von auf, an oder in Gebäuden (einschließlich Nebengebäuden) vorhandenen Photovoltaikanlagen, wenn die installierte Bruttoleistung laut Marktstammdatenregister bis zu 30 Kilowatt (peak) je Wohn- oder Gewerbeeinheit und insgesamt höchstens 100 Kilowatt (peak) pro Steuerpflichtigem oder Mitunternehmerschaft beträgt.",
+   "evidence_file": "reg_estg3.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "2 Tax/fees",
+   "claim": "MsbG price cap: smart meter (iMSys) for PV >7–15 kW: max 130 € gross/yr total, of which max 50 € charged to the connection user.",
+   "url": "https://www.gesetze-im-internet.de/messbg/__30.html",
+   "title": "§ 30 MsbG",
+   "quote": "an Messstellen an Zählpunkten von Anlagen mit einer installierten Leistung von mehr als 7 Kilowatt bis einschließlich 15 Kilowatt für den Messstellenbetrieb für jeden Zählpunkt insgesamt brutto jährlich nicht mehr als 130 Euro in Rechnung gestellt werden",
+   "evidence_file": "reg_msbg30.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "2 Tax/fees",
+   "claim": "MsbG price cap for optional (voluntary) smart-meter installation from 1 Jan 2025: max 60 € gross/yr, of which 30 € to the connection user.",
+   "url": "https://www.gesetze-im-internet.de/messbg/__30.html",
+   "title": "§ 30 MsbG",
+   "quote": "ist für die Zeit ab dem 1. Januar 2025 wirtschaftlich vertretbar, wenn vom grundzuständigen Messstellenbetreiber brutto jährlich nicht mehr als 60 Euro in Rechnung gestellt werden",
+   "evidence_file": "reg_msbg30.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "2 Grid connection",
+   "claim": "DSOs must connect RE plants without delay and with priority; they must provide a web portal for connection requests (§8 EEG).",
+   "url": "https://www.gesetze-im-internet.de/eeg_2014/__8.html",
+   "title": "§ 8 EEG 2023",
+   "quote": "Netzbetreiber müssen ein Webportal zur Verfügung stellen, über das das Netzanschlussbegehren nach Satz 1 gestellt und die Informationen nach Satz 2 Nummer 2 übermittelt werden können.",
+   "evidence_file": "reg_eeg8.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "2 Grid connection",
+   "claim": "wesernetz: PV of any size must be registered with the DSO before installation; registration only via a registered installer in the Netzportal – private customers cannot register themselves.",
+   "url": "https://wesernetz.de/fuer-einspeiser/anlagen-anmeldung/anmeldung-pv-anlagen",
+   "title": "wesernetz: Anmeldung von Photovoltaikanlagen",
+   "quote": "Bitte beachten Sie, dass die Anmeldung ausschließlich durch einen eingetragenen Installateur oder Fachplaner vorgenommen werden kann - für Privatkunden ist die Anmeldung im Netzportal nicht möglich.",
+   "evidence_file": "reg_wesernetz_pv.txt",
+   "date_or_status": "accessed 10 Nov 2026"
+  },
+  {
+   "topic": "2 Grid connection",
+   "claim": "wesernetz: notification and review for ≤30 kW systems are free of charge; DSO issues an 'Einspeisezusage'.",
+   "url": "https://wesernetz.de/fuer-einspeiser/anlagen-anmeldung/anmeldung-pv-anlagen",
+   "title": "wesernetz: Anmeldung von Photovoltaikanlagen",
+   "quote": "Wir prüfen die Anschlussmöglichkeit für Ihre Photovoltaikanlage und erteilen Ihnen dann die Einspeisezusage. Die Meldung und Überprüfung sind für Sie kostenlos.",
+   "evidence_file": "reg_wesernetz_pv.txt",
+   "date_or_status": "accessed 10 Nov 2026"
+  },
+  {
+   "topic": "2 Grid connection",
+   "claim": "MaStR registration required at latest one month after commissioning.",
+   "url": "https://wesernetz.de/fuer-einspeiser/anlagen-anmeldung/anmeldung-pv-anlagen",
+   "title": "wesernetz: Anmeldung von Photovoltaikanlagen",
+   "quote": "Die Registrierung im Marktstammdatenregister muss spätestens einen Monat nach der Inbetriebnahme der Anlage erfolgt sein.",
+   "evidence_file": "reg_wesernetz_pv.txt",
+   "date_or_status": "accessed 10 Nov 2026"
+  },
+  {
+   "topic": "3 Feed-in",
+   "claim": "EEG feed-in tariff for building PV ≤10 kW commissioned 1 Aug–31 Dec 2026: 7.70 ct/kWh (partial/surplus feed-in), 12.22 ct/kWh (full feed-in); ≤40 kW: 6.66 / 10.24 ct/kWh.",
+   "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Foerderung/start.html",
+   "title": "Bundesnetzagentur: EEG-Förderung und -Fördersätze",
+   "quote": "| Gebäude oder Lärmschutzwände<br>(§ 48 Abs. 2, 2a EEG 2023) | 10 | 7,70 | 12,22 |",
+   "evidence_file": "reg_bnetza_verguetung.txt",
+   "date_or_status": "valid for commissioning 1 Aug–31 Dec 2026"
+  },
+  {
+   "topic": "3 Feed-in",
+   "claim": "Validity window of the published rates.",
+   "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Foerderung/start.html",
+   "title": "Bundesnetzagentur: EEG-Förderung und -Fördersätze",
+   "quote": "Bei Inbetriebnahme ab 1. August 2026 bis 31. Dezember 2026 (§ 21 Abs. 1,i.V.m. §§ 48, 49, 53 Abs. 1 EEG 2023)",
+   "evidence_file": "reg_bnetza_verguetung.txt",
+   "date_or_status": "1 Aug–31 Dec 2026"
+  },
+  {
+   "topic": "3 Feed-in / reform status",
+   "claim": "BNetzA: rates based on EEG 2023, applicable until 31 Dec 2026; successor regulation is in parliamentary deliberation (not enacted).",
+   "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Foerderung/start.html",
+   "title": "Bundesnetzagentur: EEG-Förderung und -Fördersätze",
+   "quote": "Die Veröffentlichung der Fördersätze und anzulegenden Werte, die für neu in Betrieb genommene Anlagen angewendet werden, basiert auf dem EEG 2023, das bis zum 31. Dezember 2026 anwendbar ist. Eine Nachfolgeregelung für die Zeit nach dem 31. Dezember 2026 befindet sich aktuell in der parlamentarischen Beratung.",
+   "evidence_file": "reg_bnetza_verguetung.txt",
+   "date_or_status": "PROPOSED – in parliamentary deliberation as of Nov 2026"
+  },
+  {
+   "topic": "3 Feed-in (Solarspitzengesetz)",
+   "claim": "No payment during negative spot prices (§51 EEG); exemption for <100 kW only until end of the year a smart meter is installed.",
+   "url": "https://www.gesetze-im-internet.de/eeg_2014/__51.html",
+   "title": "§ 51 EEG 2023",
+   "quote": "(1) Für Zeiträume, in denen der Spotmarktpreis negativ ist, verringert sich der anzulegende Wert auf null.",
+   "evidence_file": "reg_eeg51.txt",
+   "date_or_status": "in force (Solarspitzengesetz, Feb 2025)"
+  },
+  {
+   "topic": "3 Feed-in (Solarspitzengesetz)",
+   "claim": "Until a smart meter + control box is installed and tested, EEG-remunerated systems <25 kW must cap feed-in at 60% of installed capacity (§9 Abs. 2 Nr. 3 EEG).",
+   "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+   "title": "§ 9 EEG 2023",
+   "quote": "die eine installierte Leistung von weniger als 25 Kilowatt haben, oder von KWK-Anlagen, die jeweils eine installierte Leistung von weniger als 25 Kilowatt haben, am Verknüpfungspunkt dieser Anlagen mit dem Netz jeweils die maximale Wirkleistungseinspeisung auf 60 Prozent der installierten Leistung begrenzen.",
+   "evidence_file": "reg_eeg9.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "3 Reform (EEG 2027 bill)",
+   "claim": "Government bill BT-Drs. 21/7867 (7 Sep 2026): fixed feed-in tariff for new plants to be abolished; mandatory direct marketing phased by size; temporary transition payment max 36 months.",
+   "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+   "title": "BT-Drs. 21/7867 Gesetzentwurf EEG-Novelle 2027",
+   "quote": "Dafür wird die fixe Einspeisevergü- tung für Neuanlagen konsequent abgeschafft.",
+   "evidence_file": "reg_btdrs_21_7867.txt",
+   "date_or_status": "PROPOSED (bill, 1st reading 24 Sep 2026; not enacted)"
+  },
+  {
+   "topic": "3 Reform (EEG 2027 bill)",
+   "claim": "Bill: support for new plants <25 kW largely discontinued; focus on high self-consumption and zero-feed-in systems.",
+   "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+   "title": "BT-Drs. 21/7867",
+   "quote": "Die Förderung für Neuanlagen von weniger als 25 Kilowatt installierter Leistung wird weitgehend eingestellt.",
+   "evidence_file": "reg_btdrs_21_7867.txt",
+   "date_or_status": "PROPOSED"
+  },
+  {
+   "topic": "3 Reform (EEG 2027 bill)",
+   "claim": "Bill: rooftop (segment 2) PV <100 kW feeding into the grid to be permanently capped at 50% feed-in, regardless of smart meter; plug-in devices ≤2 kW exempt.",
+   "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+   "title": "BT-Drs. 21/7867",
+   "quote": "Satz 1 ist nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung der Solaranlage oder der Solaranlagen von insgesamt bis zu 2 Kilowatt",
+   "evidence_file": "reg_btdrs_21_7867.txt",
+   "date_or_status": "PROPOSED"
+  },
+  {
+   "topic": "3 Reform (EEG 2027 bill)",
+   "claim": "Bill: plants commissioned before 1 Jan 2027 remain under EEG as in force on 31 Dec 2026 (grandfathering).",
+   "url": "https://dserver.bundestag.de/btd/21/078/2107867.pdf",
+   "title": "BT-Drs. 21/7867",
+   "quote": "Nach § 100 Absatz 1 Nummer 1 Buchstabe a EEG 2027 gelten als Bestandsanlagen solche Anlagen, die vor dem 1. Januar 2027 in Betrieb genommen wurden.",
+   "evidence_file": "reg_btdrs_21_7867.txt",
+   "date_or_status": "PROPOSED"
+  },
+  {
+   "topic": "3 Reform status",
+   "claim": "Bundestag held first reading 24 Sep 2026.",
+   "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stromsektor-1211294",
+   "title": "Deutscher Bundestag Textarchiv KW39 2026",
+   "quote": "Der Bundestag hat am Donnerstag, 24. September 2026 , in erster Lesung den Gesetzentwurf der Bundesregierung",
+   "evidence_file": "reg_bundestag_kw39_eeg.txt",
+   "date_or_status": "1st reading 24 Sep 2026"
+  },
+  {
+   "topic": "3 Reform status",
+   "claim": "Bundesrat opposes abolishing feed-in tariff for rooftop PV.",
+   "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stromsektor-1211294",
+   "title": "Deutscher Bundestag Textarchiv KW39 2026",
+   "quote": "Sie spricht sich unter anderem gegen die geplante Abschaffung der Einspeisevergütung bei Solaranlagen auf Dächern bis 2032 aus und fordert, „den PV-Aufdachausbau weiterhin anzureizen“.",
+   "evidence_file": "reg_bundestag_kw39_eeg.txt",
+   "date_or_status": "Bundesrat statement Sep 2026"
+  },
+  {
+   "topic": "4 Mieterstrom",
+   "claim": "Mieterstromzuschlag for systems commissioned 1 Aug–31 Dec 2026: 2.51 ct/kWh (≤10 kW), 2.33 (≤40 kW), 1.57 (≤1,000 kW).",
+   "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Foerderung/start.html",
+   "title": "Bundesnetzagentur: EEG-Förderung und -Fördersätze",
+   "quote": "| 10 | 2,51 |",
+   "evidence_file": "reg_bnetza_verguetung.txt",
+   "date_or_status": "1 Aug–31 Dec 2026"
+  },
+  {
+   "topic": "4 Mieterstrom",
+   "claim": "§42a EnWG: tenant-electricity price (incl. top-up supply) capped at 90% of the local basic-supply tariff; contract must not be part of the lease.",
+   "url": "https://www.gesetze-im-internet.de/enwg_2005/__42a.html",
+   "title": "§ 42a EnWG",
+   "quote": "Für Mieter von Wohnräumen darf der für den Mieterstrom und den zusätzlichen Strombezug nach Absatz 2 Satz 6 zu zahlende Preis 90 Prozent des in dem jeweiligen Netzgebiet geltenden Grundversorgungstarifs, auf Basis des Grund- und Arbeitspreises, nicht übersteigen.",
+   "evidence_file": "reg_enwg42a.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "4 Gemeinschaftliche Gebäudeversorgung",
+   "claim": "§42b EnWG: building-electricity operator is not obliged to ensure full supply (no supplier obligations for residual power); requires quarter-hourly metering.",
+   "url": "https://www.gesetze-im-internet.de/enwg_2005/__42b.html",
+   "title": "§ 42b EnWG",
+   "quote": "(3) Der Betreiber der Gebäudestromanlage ist nicht verpflichtet, die umfassende Versorgung der teilnehmenden Letztverbraucher mit Strom sicherzustellen.",
+   "evidence_file": "reg_enwg42b.txt",
+   "date_or_status": "in force (Solarpaket I 2024)"
+  },
+  {
+   "topic": "4 Gemeinschaftliche Gebäudeversorgung",
+   "claim": "§42b requires quarter-hourly metering of participating consumers.",
+   "url": "https://www.gesetze-im-internet.de/enwg_2005/__42b.html",
+   "title": "§ 42b EnWG",
+   "quote": "die Strombezugsmengen des Letztverbrauchers viertelstündlich gemessen werden",
+   "evidence_file": "reg_enwg42b.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "4 Plug-in PV",
+   "claim": "Plug-in devices legally defined: max 800 W (AC) inverter and 2,000 Wp modules; DSO notification abolished; simplified MaStR registration (Solarpaket I, May 2024).",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/steckersolar-solarstrom-vom-balkon-direkt-in-die-steckdose-44715",
+   "title": "Verbraucherzentrale: Steckersolar",
+   "quote": "Die gesetzlichen Leistungsgrenzen betragen maximal 800 Watt (AC) am Wechselrichter und maximal 2.000 Watt (p) für die angeschlossenen Module.",
+   "evidence_file": "reg_vz_steckersolar.txt",
+   "date_or_status": "in force since Solarpaket I (May 2024); page date not captured in saved file"
+  },
+  {
+   "topic": "4 Plug-in PV",
+   "claim": "No registration with the DSO required any more for plug-in devices.",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/gesetze-und-normen-fuer-steckersolar-was-gilt-was-gilt-noch-nicht-90740",
+   "title": "Verbraucherzentrale: Gesetze und Normen für Steckersolar",
+   "quote": "Ein Steckersolar-Gerät muss jetzt nicht mehr beim lokalen Stromnetzbetreiber angemeldet werden.",
+   "evidence_file": "reg_vz_steckersolar_gesetze.txt",
+   "date_or_status": "Stand 21 Oct 2026"
+  },
+  {
+   "topic": "4 Plug-in PV",
+   "claim": "Simplified MaStR registration since 1 Apr 2024 — only five technical data points.",
+   "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/gesetze-und-normen-fuer-steckersolar-was-gilt-was-gilt-noch-nicht-90740",
+   "title": "Verbraucherzentrale: Gesetze und Normen für Steckersolar",
+   "quote": "Der neue Anmeldeprozess beschränkt sich neben den Angaben zum Betreiber auf nur fünf technische Angaben: Leistung der Module, Leistung des Wechselrichters, Standort, Inbetriebnahmedatum und Stromzählernummer.",
+   "evidence_file": "reg_vz_steckersolar_gesetze.txt",
+   "date_or_status": "Stand 21 Oct 2026"
+  },
+  {
+   "topic": "4 Plug-in PV",
+   "claim": "Technical control obligations of §9(1) EEG do not apply to plug-in devices ≤2 kW / ≤800 VA behind a consumer's meter.",
+   "url": "https://www.gesetze-im-internet.de/eeg_2014/__9.html",
+   "title": "§ 9 EEG 2023",
+   "quote": "Die Sätze 1 und 2 sind nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung von insgesamt bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter der Entnahmestelle eines Letztverbrauchers betrieben werden.",
+   "evidence_file": "reg_eeg9.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "4 Plug-in PV (tenants)",
+   "claim": "§554 BGB: tenants can demand landlord permission for structural changes serving plug-in solar; refusal only if unreasonable for landlord.",
+   "url": "https://www.gesetze-im-internet.de/bgb/__554.html",
+   "title": "§ 554 BGB",
+   "quote": "Der Mieter kann verlangen, dass ihm der Vermieter bauliche Veränderungen der Mietsache erlaubt, die dem Gebrauch durch Menschen mit Behinderungen, dem Laden elektrisch betriebener Fahrzeuge, dem Einbruchsschutz oder der Stromerzeugung durch Steckersolargeräte dienen.",
+   "evidence_file": "reg_bgb554.txt",
+   "date_or_status": "in force (privileged since Oct 2024 – date NOT in saved file)"
+  },
+  {
+   "topic": "4 Plug-in PV (WEG)",
+   "claim": "§20 Abs. 2 WEG: each apartment owner can demand reasonable structural changes serving plug-in solar.",
+   "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
+   "title": "§ 20 WEG",
+   "quote": "Jeder Wohnungseigentümer kann angemessene bauliche Veränderungen verlangen, die",
+   "evidence_file": "reg_weg20.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen Solarpflicht",
+   "claim": "BremSolarG in force since 24 May 2023, amended 29 May 2024: PV on ≥50% of roof for new buildings from 1 Jul 2025; on fundamental roof renovation from 1 Jul 2024 min. 1 kW / 1,000 VA within two years.",
+   "url": "https://umwelt.bremen.de/klima/energie/bremisches-solargesetz-bremsolarg-2155612",
+   "title": "SUKW Bremen: Bremisches Solargesetz",
+   "quote": "Es legt eine allgemeine Pflicht für Bauherr*innen fest, ab dem 1. Juli 2025 auf mindestens 50 Prozent der Dachfläche von Neubauten Photovoltaikanlagen zu installieren und zu betreiben.",
+   "evidence_file": "reg_bremsolarg_umwelt.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen Solarpflicht",
+   "claim": "Roof-renovation trigger (from 1 Jul 2024).",
+   "url": "https://umwelt.bremen.de/klima/energie/bremisches-solargesetz-bremsolarg-2155612",
+   "title": "SUKW Bremen: Bremisches Solargesetz",
+   "quote": "Bei grundlegenden Dachsanierungen von bestehenden Gebäuden besteht ab dem 1. Juli 2024 eine anlassbezogene Pflicht innerhalb von zwei Jahren nach Abschluss der Dachsanierung eine oder mehrere Photovoltaikanlagen mit einer Modulleistung von mindestens 1 kW und einer Wechselrichterleistung von mindestens 1.000 VA zu installieren.",
+   "evidence_file": "reg_bremsolarg_umwelt.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen Solarpflicht",
+   "claim": "Exemptions: roofs <50 m², thatch/wood roofs, north-facing steep roofs, etc.; hardship exemption if costs disproportionate or financing impossible (§6).",
+   "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen203.c.236059.de&template=00_html_to_pdf_d",
+   "title": "BremSolarG (Fassung 29.05.2024)",
+   "quote": "die Finanzierung der Photovoltaikanlage nicht möglich ist.",
+   "evidence_file": "reg_bremsolarg_text.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen Solarpflicht",
+   "claim": "Exemption for roofs under 50 m².",
+   "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen203.c.236059.de&template=00_html_to_pdf_d",
+   "title": "BremSolarG",
+   "quote": "Gebäude, deren Dachfläche nach § 3 50 Quadratmeter unterschreitet,",
+   "evidence_file": "reg_bremsolarg_text.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen Solarpflicht",
+   "claim": "Fines up to 5,000 € per building (25,000 € if roof >250 m²).",
+   "url": "https://www.transparenz.bremen.de/sixcms/detail.php?gsid=bremen203.c.236059.de&template=00_html_to_pdf_d",
+   "title": "BremSolarG",
+   "quote": "Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 5 000 Euro je baulicher Anlage, für die ein Verstoß nach Absatz 1 festgestellt ist, geahndet werden.",
+   "evidence_file": "reg_bremsolarg_text.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "5 Bremen subsidy (Bremerhaven)",
+   "claim": "Bremerhaven's 25% PV subsidy for private households (from Jan 2023) has been ended (2024 budget); not combinable with EEG feed-in.",
+   "url": "https://energiekonsens.de/aktuelles/solar-foerderprogramm-fuer-private-haushalte-in-bremerhaven-eingestellt",
+   "title": "energiekonsens (Bremen climate agency)",
+   "quote": "Private Haushalte in Bremerhaven konnten sich ab Januar 2023 die Anschaffung einer Photovoltaik-Anlage unter bestimmten Voraussetzungen mit 25% der Kosten bezuschussen lassen. Nun wurde das Förderprogramm beendet.",
+   "evidence_file": "reg_energiekonsens_bhv.txt",
+   "date_or_status": "CLOSED (announced 24 Jun 2024)"
+  },
+  {
+   "topic": "5 Bremen subsidy (Bremerhaven)",
+   "claim": "Bremerhaven programme excluded balcony plants.",
+   "url": "https://www.weser-kurier.de/bremen/wirtschaft/bremen-balkon-solargeraete-sind-in-bremen-privatsache-doc7oxj00dqbpv12zkoqhlg",
+   "title": "Weser-Kurier (newspaper, secondary) 22.02.2023",
+   "quote": "sind Balkonkraftwerke davon aber ausgeschlossen.",
+   "evidence_file": "reg_weserkurier_balkon.txt",
+   "date_or_status": "2023"
+  },
+  {
+   "topic": "5 Bremen finance",
+   "claim": "BAB (Bremer Aufbau-Bank) 'PV nach Plan' within 'Rund ums Haus': low-interest loans up to 50,000 € for private owners in Land Bremen; covers PV, inverters >800 W, storage — loan, not grant.",
+   "url": "https://www.bab-bremen.de/de/page/programm/rund-ums-haus",
+   "title": "BAB: Kredite rund ums Haus",
+   "quote": "Annuitätendarlehen bis zu 50.000 €",
+   "evidence_file": "reg_bab_rundumshaus.txt",
+   "date_or_status": "open (accessed Nov 2026)"
+  },
+  {
+   "topic": "5 Bremen finance",
+   "claim": "BAB eligible items (plug-in ≤800 W excluded by the >800 W inverter criterion).",
+   "url": "https://www.bab-bremen.de/de/page/programm/rund-ums-haus",
+   "title": "BAB: Kredite rund ums Haus",
+   "quote": "Wechselrichter (>800 Watt Gesamt-Wechselrichterleistung)",
+   "evidence_file": "reg_bab_rundumshaus.txt",
+   "date_or_status": "open"
+  },
+  {
+   "topic": "5 Bremen social plug-in pilot",
+   "claim": "Bürgerschaft resolution (Drs. 20/1418, 23 Mar 2022) asked Senate to set up a pilot subsidy for balcony PV for tenants esp. welfare/housing-benefit recipients.",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp20/land/drucksache/D20L1418.pdf",
+   "title": "Bremische Bürgerschaft Drs. 20/1418",
+   "quote": "in Kombination mit Energiesparberatungen ein Pilotprogramm zur Bezuschussung der Anschaffung von Balkonsolaranlagen für Mieter:innen, insbesondere für Sozialleistungs- und Wohngeldempfänger:innen,",
+   "evidence_file": "reg_bb_drs_20_1418.txt",
+   "date_or_status": "resolution 2022"
+  },
+  {
+   "topic": "5 Bremen social plug-in pilot",
+   "claim": "Senate (Drs. 21/222, 19 Dec 2023): pilot not implemented, no applications, no funds disbursed.",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222 Mitteilung des Senats",
+   "quote": "Zum Zeitpunkt der Berichterstattung ist kein Pilotförderprogramm in Umsetzung. Somit ist kein Antragseingang zu berichten.",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "status Dec 2023; no later official status found"
+  },
+  {
+   "topic": "5 Bremen social plug-in pilot",
+   "claim": "Senate: full subsidy for welfare recipients may be inadmissible under Bremen budget rules (VV-LHO §44).",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222",
+   "quote": "Die Fokussierung der Zielgruppe der Sozial- und Transferleistungsempfänger:innen erfordert nach Beratung mit dem Sozialressort eine Vollförderung der Balkon- Photovoltaik- Anlagen",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "Dec 2023"
+  },
+  {
+   "topic": "5 Bremen social (NGO)",
+   "claim": "Senate mentions 'Bremer SolidarStrom' offering plug-in devices to welfare/BAföG recipients at 100 € own contribution.",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222",
+   "quote": "Transferleistungsbezieher:innen sowie BAföG-Empfänger:innen die Anschaffung einer steckerfertigen Photovoltaik-Anlage zu einem Eigenanteil von 100 Euro ermöglicht.",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "Dec 2023"
+  },
+  {
+   "topic": "5 Bremen social (NGO)",
+   "claim": "Bremer SolidarStrom (NGO, self-reported): ~60 devices given to low-income households by Sep 2025; currently funded by Bremer Klimafonds and environment ministry; eligibility B-Schein, Wohngeld, Bürgergeld etc.",
+   "url": "https://bremer-solidarstrom.de/solidarische_balkonkraftwerke/",
+   "title": "Bremer SolidarStrom (NGO page – not official)",
+   "quote": "Aktuell können wir dank Fördergeldern des Bremer Klimafonds und des Bremer Umweltressorts wieder Balkonkraftwerke an Menschen mit geringem Einkommen verschenken.",
+   "evidence_file": "reg_solidarstrom_geschenkt.txt",
+   "date_or_status": "accessed Nov 2026"
+  },
+  {
+   "topic": "5 Bremen social (NGO)",
+   "claim": "NGO says the politically decided social balcony-PV subsidy is still not implemented.",
+   "url": "https://bremer-solidarstrom.de/solidarische_balkonkraftwerke/",
+   "title": "Bremer SolidarStrom (NGO)",
+   "quote": "Darüber hinaus engagieren wir uns auch dafür, dass die vor Jahren politisch beschlossene soziale Balkonkraftwerksförderung im Land Bremen auch endlich umgesetzt wird.",
+   "evidence_file": "reg_solidarstrom_geschenkt.txt",
+   "date_or_status": "accessed Nov 2026"
+  },
+  {
+   "topic": "5 Bremen targets",
+   "claim": "Senate target: PV expansion to 1,000 MW by 2038 (Aktionsplan Klimaschutz / Klimaschutzstrategie 2038).",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222",
+   "quote": "Es wird ein Ausbau auf 1 000 Megawatt bis 2038 angestrebt.",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "Dec 2023"
+  },
+  {
+   "topic": "5 Bremen baseline",
+   "claim": "Installed PV in Land Bremen rose from 46.2 MWp (2019) to 89.5 MWp (30 Sep 2023).",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222",
+   "quote": "Im Zeitraum 2019 bis 2023 ist die potenzielle Solarstrom-Leistung im Land Bremen von 46,2 MWp (Milliwatt Peak) auf 89,5 MWp (Stand 30. September 2023) gestiegen.",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "Sep 2023"
+  },
+  {
+   "topic": "5 Bremen baseline",
+   "claim": "1,463 plug-in devices registered in Land Bremen by 24 Nov 2023 (1,259 Bremen city, 204 Bremerhaven).",
+   "url": "https://www.bremische-buergerschaft.de/dokumente/wp21/land/drucksache/D21L0222.pdf",
+   "title": "Drs. 21/222",
+   "quote": "Insgesamt waren bis zum Stichtag, dem 24. November 2023, im Land Bremen 1 463 steckerfertige Photovoltaik-Anlagen gemeldet.",
+   "evidence_file": "reg_bb_drs_21_222.txt",
+   "date_or_status": "Nov 2023"
+  },
+  {
+   "topic": "5 Bremen advice",
+   "claim": "Free solar advice via energiekonsens funded by the environment ministry.",
+   "url": "https://solar-in-bremen.de/",
+   "title": "solar-in-bremen.de (energiekonsens)",
+   "quote": "dank Förderung der Senatorin für Umwelt, Klima und Wissenschaft für Sie kostenlos.",
+   "evidence_file": "reg_solar_in_bremen.txt",
+   "date_or_status": "accessed Nov 2026"
+  },
+  {
+   "topic": "6 Electricity price",
+   "claim": "BDEW: average household electricity price 2026 so far 37.3 ct/kWh (Oct 2026), below previous year.",
+   "url": "https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/",
+   "title": "BDEW-Strompreisanalyse",
+   "quote": "Der durchschnittliche Strompreis für Haushalte ist 2026 im Vergleich zum Vorjahr gesunken und beträgt bisher durchschnittlich 37,3 ct/kWh.",
+   "evidence_file": "reg_bdew_strompreis.txt",
+   "date_or_status": "Oct 2026"
+  },
+  {
+   "topic": "6 Electricity price",
+   "claim": "BDEW: wholesale price rise (Iran war) now visible in new-customer tariffs from 1 Oct 2026.",
+   "url": "https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/",
+   "title": "BDEW-Strompreisanalyse",
+   "quote": "Steigende Großhandelspreise infolge des Iran-Kriegs machen sich zum 1. Oktober 2026 auch in den Neukundentarifen bemerkbar.",
+   "evidence_file": "reg_bdew_strompreis.txt",
+   "date_or_status": "Oct 2026"
+  },
+  {
+   "topic": "6 Self-consumption",
+   "claim": "Households achieve 20–40% self-consumption without battery (HTW via Fraunhofer ISE).",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf",
+   "title": "Fraunhofer ISE: Aktuelle Fakten zur Photovoltaik (Fassung 20.8.2026)",
+   "quote": "Haushalte erreichen abhängig von der Anlagengrößen 20 – 40 % Eigenverbrauch bezogen auf den erzeugten Strom [HTW1].",
+   "evidence_file": "reg_ise_fakten.txt",
+   "date_or_status": "20 Aug 2026"
+  },
+  {
+   "topic": "6 Self-consumption",
+   "claim": "Batteries typically double household self-consumption.",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf",
+   "title": "Fraunhofer ISE: Aktuelle Fakten zur Photovoltaik",
+   "quote": "Mit stationären Batterien können Haushalte ihren Eigenverbrauch von PV-Strom in die Abendstunden ausdehnen und damit massiv erhöhen (typischerweise verdoppeln, s. Abbildung 50).",
+   "evidence_file": "reg_ise_fakten.txt",
+   "date_or_status": "20 Aug 2026"
+  },
+  {
+   "topic": "6 LCOE",
+   "claim": "Small rooftop PV LCOE 6–14 ct/kWh (Fraunhofer ISE) – well below the ~37 ct/kWh household price.",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf",
+   "title": "Fraunhofer ISE: Aktuelle Fakten zur Photovoltaik",
+   "quote": "Neue MW-Kraftwerke produzieren PV-Strom zu Kosten von ca. 4 – 7 ct/kWh, bei kleinen Dachanlagen liegt die Spanne im Bereich von 6 – 14 ct/kWh [ISE1].",
+   "evidence_file": "reg_ise_fakten.txt",
+   "date_or_status": "20 Aug 2026"
+  },
+  {
+   "topic": "6 LCOE",
+   "claim": "PV-battery systems LCOE 6.0–22.5 ct/kWh; battery cost 400–1,000 EUR/kWh.",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2024_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+   "title": "Fraunhofer ISE LCOE study",
+   "quote": "Die Stromgestehungskosten für PV-Batteriesysteme variieren zwischen 6,0 und 22,5 €Cent/kWh.",
+   "evidence_file": "reg_ise_lcoe2024.txt",
+   "date_or_status": "July 2024"
+  },
+  {
+   "topic": "6 Fakten edition",
+   "claim": "Fraunhofer ISE Fakten edition date.",
+   "url": "https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf",
+   "title": "Fraunhofer ISE: Aktuelle Fakten zur Photovoltaik",
+   "quote": "Fassung vom 20.8.2026",
+   "evidence_file": "reg_ise_fakten.txt",
+   "date_or_status": "20 Aug 2026"
+  },
+  {
+   "topic": "6 Plug-in payback",
+   "claim": "VZ SH: a ~500 W plug-in device costing 450 € may pay off after six to eight years (not generalisable).",
+   "url": "https://www.verbraucherzentrale.sh/wissen/energie/balkon-pv-stecker-solar-als-alternative",
+   "title": "Verbraucherzentrale Schleswig-Holstein",
+   "quote": "So könnte sich ein Solargerät in der Größenordnung von 500 Watt mit einem Gesamtpreis von 450 Euro nach sechs bis acht Jahren als lohnend herausstellen.",
+   "evidence_file": "reg_vzsh_balkon_mfh.txt",
+   "date_or_status": "Stand 23 Jul 2026"
+  },
+  {
+   "topic": "6 Plug-in tool",
+   "claim": "HTW Stecker-Solar-Simulator computes LCOE and payback for plug-in devices (tool; no single published payback figure).",
+   "url": "https://solar.htw-berlin.de/rechner/stecker-solar-simulator",
+   "title": "HTW Berlin Stecker-Solar-Simulator",
+   "quote": "Zusätzlich ermittelt der Simulator unter Berücksichtigung der Gegebenheiten vor Ort die Stromgestehungskosten Ihres Solarstroms sowie die Amortisationszeit.",
+   "evidence_file": "reg_htw_stecker_sim.txt",
+   "date_or_status": "tool"
+  },
+  {
+   "topic": "7 DSO",
+   "claim": "DSOs: wesernetz Bremen GmbH (Bremen) and wesernetz Bremerhaven GmbH (Bremerhaven), same management.",
+   "url": "https://www.wesernetz.de/impressum",
+   "title": "wesernetz Impressum",
+   "quote": "Geschäftsführung wesernetz Bremen GmbH und wesernetz Bremerhaven GmbH",
+   "evidence_file": "reg_wesernetz_impressum.txt",
+   "date_or_status": "accessed Nov 2026"
+  },
+  {
+   "topic": "7 Grid congestion",
+   "claim": "wesernetz reports no congestion in either network area (aggregate statement only).",
+   "url": "https://www.wesernetz.de/fuer-partner/energielieferanten/stromnetz/strukturdaten-des-bremer-und-bremerhavener-stromnetzes",
+   "title": "wesernetz Strukturdaten",
+   "quote": "Es liegen derzeit keine Engpässe im Netzgebiet der wesernetz Bremen GmbH vor. Es bestehen zur Zeit keine Engpässe im Netzgebiet der wesernetz Bremerhaven GmbH.",
+   "evidence_file": "reg_wesernetz_strukturdaten.txt",
+   "date_or_status": "data as of 31.12.2025"
+  },
+  {
+   "topic": "7 Platform",
+   "claim": "§14e EnWG joint DSO platform (VNBdigital) must route connection requests and publish TAB, regional scenarios, network expansion plans — no hosting-capacity map required by the text.",
+   "url": "https://www.gesetze-im-internet.de/enwg_2005/__14e.html",
+   "title": "§ 14e EnWG",
+   "quote": "(4) Betreiber von Elektrizitätsverteilernetzen veröffentlichen auf der gemeinsamen Internetplattform mindestens Folgendes:",
+   "evidence_file": "reg_enwg14e.txt",
+   "date_or_status": "in force"
+  },
+  {
+   "topic": "7 Platform",
+   "claim": "wesernetz on VNBdigital: links for connection requests, TAB and §14d network expansion plan.",
+   "url": "https://vnbdigital.de/vnb/7203",
+   "title": "VNBdigital – wesernetz",
+   "quote": "wesernetz Bremen GmbH stellt ab dem 30.04.2024 hier aufgrund der gesetzlichen Vorgaben des §14d EnWG den jeweils aktuellen Netzausbauplan zur Einsicht vor.",
+   "evidence_file": "reg_vnbdigital_wesernetz.txt",
+   "date_or_status": "accessed Nov 2026"
+  },
+  {
+   "topic": "7 Grid delays",
+   "claim": "Weser-Kurier (Dec 2024, secondary): 200–300 PV connection requests per month in Bremen; waiting times partly >6 months.",
+   "url": "https://www.weser-kurier.de/bremen/wirtschaft/herausforderungen-fuer-pv-anlagen-in-bremen-netzausbau-noetig-doc7yf6da2unzqpa2emdjy",
+   "title": "Weser-Kurier 11.12.2024 (newspaper – secondary)",
+   "quote": "Wesernetz sagt, dass alle neuen Anlagen zum gegenwärtigen Zeitpunkt auch angeschlossen werden können – das Unternehmen kann eben nur nicht den Zeitpunkt nennen angesichts von Wartezeiten, die zum Teil über ein halbes Jahr hinausgehen.",
+   "evidence_file": "reg_weserkurier_netzausbau.txt",
+   "date_or_status": "Dec 2024"
+  },
+  {
+   "topic": "7 Information discrepancy",
+   "claim": "wesernetz general info page still states plug-in devices must be registered with the DSO — contradicts federal rule since May 2024 (potential barrier).",
+   "url": "https://www.wesernetz.de/fuer-einspeiser/informationen",
+   "title": "wesernetz: Informationen für Einspeiser",
+   "quote": "Erzeugungsanlagen wie steckerfertige Erzeugungsanlagen (Balkonkraftwerke, Mini-PV), größere Photovoltaik- oder Solaranlagen sowie Blockheizkraft-, Windkraft- oder Wasserkraftanlagen müssen beim Netzbetreiber angemeldet werden.",
+   "evidence_file": "reg_wesernetz_einspeiser.txt",
+   "date_or_status": "accessed 10 Nov 2026"
+  },
+  {
+   "topic": "5 Bremen finance",
+   "claim": "BAB PV loan interest about 4.3% at launch (2024), below KfW 270.",
+   "url": "https://energiekonsens.de/aktuelles/solar-foerderprogramm-fuer-private-haushalte-in-bremerhaven-eingestellt",
+   "title": "energiekonsens",
+   "quote": "Der Zinssatz liegt derzeit bei etwas 4,3 % und ist damit deutlich günstiger als das KFW Programm 270 „Erneuerbare Energien Standard“ welches zwischen 5,21 und 12,03% liegt",
+   "evidence_file": "reg_energiekonsens_bhv.txt",
+   "date_or_status": "2024 (current rate not verified)"
+  },
+  {
+   "topic": "3 Reform status",
+   "claim": "Trade press (secondary): 2nd/3rd Bundestag reading delayed; BEE expected passage only in November 2026.",
+   "url": "https://pv-magazine.de/2026/10/15/bundestag-wird-eeg-2027-und-netzpaket-wohl-erst-im-november-verabschieden",
+   "title": "pv magazine 15.10.2026 (trade press – secondary)",
+   "quote": "Der BEE rechnet nun damit, dass das EEG und Netzpaket erst im November verabschiedet werden können",
+   "evidence_file": "reg_pvmag_eeg_nov.txt",
+   "date_or_status": "not enacted as of mid-Oct 2026"
+  }
+ ],
+ "not_found": [
+  "Current (2025-2026) direct state/municipal GRANT for rooftop PV or plug-in PV in Land Bremen: NOT FOUND (only BAB loans; Bremerhaven 25% grant closed 2024; Senate social balcony-PV pilot not implemented as of Dec 2023; no later official status found)",
+  "Any Bremen-Pass-linked / means-tested official solar subsidy: NOT FOUND (only NGO Bremer SolidarStrom giveaways, partly funded by Klimafonds/Umweltressort)",
+  "Neighbourhood-level (Ortsnetz/street) hosting-capacity or available-connection-capacity data for wesernetz Bremen/Bremerhaven: NOT FOUND — only aggregate 'no congestion' statement, structural data, §14d network expansion plan and VNBdigital links",
+  "Fraunhofer ISE LCOE study edition newer than July 2024: NOT FOUND",
+  "Single published HTW payback figure for plug-in PV (simulator is interactive only): NOT FOUND in saved sources",
+  "Date of BGB §554 / WEG §20 plug-in privilege (Oct 2024) in a saved primary source: NOT FOUND (law text saved without amendment date)",
+  "BSW-Solar price index for PV/storage: NOT FOUND publicly (members-only)",
+  "Bremen 2030 interim PV target (e.g. 500 MW) in official source: NOT FOUND (only 1,000 MW by 2038 confirmed)",
+  "Current BAB 'PV nach Plan' interest rate (Nov 2026): NOT FOUND (conditions PDF not fetched)",
+  "Final Bundestag vote on EEG 2027 as of 10 Nov 2026: NOT FOUND — bill pending"
+ ]
+}

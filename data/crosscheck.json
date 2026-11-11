@@ -1,0 +1,21 @@
+{
+ "all_pv_in_op_by_2025_MW": 191.9,
+ "by_city_MW": {
+  "04011000": 153.6,
+  "04012000": 38.3
+ },
+ "plug_in_op_commissioned_by_2025": 6370,
+ "all_pv_in_op_now_MW": 225.4,
+ "roof_haushalt_share_of_all_capacity": 0.362,
+ "plug_kw_total": 9273.0,
+ "plz_counts_28357_27578_28279_before_2024-03-18": {
+  "28357": 579,
+  "27578": 455,
+  "28279": 416
+ },
+ "top3_plz_all_pv_now": {
+  "28357": 1378,
+  "28279": 1157,
+  "27578": 1063
+ }
+}

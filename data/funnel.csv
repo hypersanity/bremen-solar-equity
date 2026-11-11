@@ -1,0 +1,8 @@
+step,units
+"All solar units, Gemeindeschlüssel Bremen/Bremerhaven",20300
+… in operation (In Betrieb),19438
+… building-mounted (Gebäudesolaranlage),11118
+… of which use 'Haushalt' = ROOF,9402
+Plug-in units in operation = PLUG,8313
+ROOF with PLZ inside Land Bremen polygons,9401
+PLUG with PLZ inside Land Bremen polygons,8313

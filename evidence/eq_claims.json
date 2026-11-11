@@ -1,0 +1,576 @@
+{
+ "claims": [
+  {
+   "topic": "drivers_income",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "US rooftop PV adopters' median income (2023, $115k) is 53% higher than all US households ($75k).",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "The median income of 2023 solar adopters ($115k) is 53% higher than for all U.S. households ($75k)",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_income",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "Compared only with owner-occupied households, adopter incomes are just 23% higher — tenure explains much of the income gap (onsite adopters are almost all owner-occupiers).",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "solar adopter incomes are only 23% higher if comparing to only OO-HHs ($94k)",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_housing_tenure",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "Of 2023 US PV installs on owner-occupied homes, 97% were on single-family detached homes.",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "Of this share, 97% are on single family, detached homes, and the remaining 3% are on multi-family homes",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_housing_tenure",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "Renter-occupied homes account for ~4% of US installations, mostly single-family.",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "The remaining 4% of installations are on renter- occupied homes, of which the vast majority (89%) are on single-family homes",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_trend",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "Adoption skews to high income but is slowly becoming more equitable; ~half of 2023 adopters earned <120% of area median income.",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "While solar adoption skews toward high-income households, low- and moderate-income (LMI) households are also adopting. In 2023, roughly half of adopters earned less than 120% of their area’s median income.",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_education",
+   "title": "LBNL, Residential Solar-Adopter Income and Demographic Trends: 2024 Update",
+   "claim": "US adopters are slightly more educated than the population (42% vs 37% with bachelor's).",
+   "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/2024_solar-adopter_income_trends_final_v2.pdf",
+   "quote": "42% have a bachelor’s degree or higher, compared to 37% of all U.S. HHs (or 40% on a weighted average basis)",
+   "evidence_file": "eq_lbnl2024.txt"
+  },
+  {
+   "topic": "drivers_race_ownership",
+   "title": "Sunter, Castellanos & Kammen (2019), Nature Sustainability 2:71–76",
+   "claim": "Black- and Hispanic-majority US census tracts have significantly less rooftop PV, even after controlling for income and home ownership.",
+   "url": "https://rael.berkeley.edu/wp-content/uploads/2019/01/Sunter-Castellanos-Kammen-Nature-SustainablityDisparitiesPVDeploymentRaceEthnicity.pdf",
+   "quote": "Black- and Hispanic-majority census tracts show on average significantly less rooftop PV installed. This disparity is often attributed to racial and ethnic differences in household income and home ownership. In this study, significant racial disparity remains even after we account for these differences.",
+   "evidence_file": "eq_sunter2019.txt"
+  },
+  {
+   "topic": "drivers_race_ownership",
+   "title": "Sunter, Castellanos & Kammen (2019), Nature Sustainability",
+   "claim": "Correcting for home ownership, Black-/Hispanic-majority tracts installed 61%/45% less PV than no-majority tracts.",
+   "url": "https://rael.berkeley.edu/wp-content/uploads/2019/01/Sunter-Castellanos-Kammen-Nature-SustainablityDisparitiesPVDeploymentRaceEthnicity.pdf",
+   "quote": "When correcting for home ownership, black- and Hispanic-majority census tracts have installed less rooftop PV compared with no majority tracts by 61 and 45%, respectively, while white-majority census tracts have installed 37% more.",
+   "evidence_file": "eq_sunter2019.txt"
+  },
+  {
+   "topic": "drivers_peer_effects",
+   "title": "Sunter, Castellanos & Kammen (2019), Nature Sustainability",
+   "claim": "Under-'seeding' (lack of initial installations) in disadvantaged tracts matters because PV adoption is driven by spatial neighbour effects.",
+   "url": "https://rael.berkeley.edu/wp-content/uploads/2019/01/Sunter-Castellanos-Kammen-Nature-SustainablityDisparitiesPVDeploymentRaceEthnicity.pdf",
+   "quote": "Since rooftop PV adoption is significantly influenced by spatial neighbouring effects, we hypothesize that the Hispanic-majority census tracts may have been undergoing a delayed seeding process,",
+   "evidence_file": "eq_sunter2019.txt"
+  },
+  {
+   "topic": "drivers_peer_effects",
+   "title": "Graziano & Gillingham (2015), Journal of Economic Geography 15(4):815–839",
+   "claim": "PV adoption in Connecticut is spatially clustered beyond income/population patterns, driven by nearby prior installations and the built environment.",
+   "url": "https://resources.environment.yale.edu/gillingham/GrazianoGillingham_15_SpatialPatternsPVSystems.pdf",
+   "quote": "This clustering does not simply follow the spatial distribution of income or population. We find that smaller centers contribute to adoption more than larger urban areas, in a wave-like centrifugal pattern. Our empirical estimation demonstrates a strong relationship between adoption and the number of nearby previously installed systems as well as built environment and policy variables.",
+   "evidence_file": "eq_graziano2015.txt"
+  },
+  {
+   "topic": "drivers_peer_effects",
+   "title": "Graziano & Gillingham (2015)",
+   "claim": "One more installation within 0.5 miles in the prior year raises block-group installations by 0.44 on average.",
+   "url": "https://resources.environment.yale.edu/gillingham/GrazianoGillingham_15_SpatialPatternsPVSystems.pdf",
+   "quote": "For example, our results indicate that adding one more installation within 0.5 miles of adopting households in the year prior to the adoption increases the number of installations in a block group by 0.44 PV",
+   "evidence_file": "eq_graziano2015.txt"
+  },
+  {
+   "topic": "drivers_peer_effects_germany",
+   "title": "Rode & Weber (2016), Journal of Environmental Economics and Management 78:38–48",
+   "claim": "German household PV (≈576,000 systems to 2009): imitative adoption is highly localized and an important diffusion driver.",
+   "url": "https://ideas.repec.org/a/eee/jeeman/v78y2016icp38-48.html",
+   "quote": "Our study is based on a unique data set of some 576,000 household photovoltaic systems installed in Germany through 2009. We employ an epidemic diffusion model which includes a spatial dimension, and control for temporal and spatial heterogeneity. According to our results, imitative adoption behavior is highly localized and an important factor for the diffusion of household photovoltaic systems.",
+   "evidence_file": "eq_rode2016.txt"
+  },
+  {
+   "topic": "drivers_germany_economics",
+   "title": "Jacksohn, Grösche, Rehdanz & Schröder (2018), SOEPpapers 977 / DIW Berlin (published Energy Economics 2019)",
+   "claim": "In SOEP data, German household PV/solar-thermal investment is driven mainly by economic factors; sociodemographics only fine-tune.",
+   "url": "http://diw.de/documents/publikationen/73/diw_01.c.596110.de/diw_sp0977.pdf",
+   "quote": "Our results suggest that household decisions to invest in photovoltaic systems and solar thermal facilities are mainly driven by the economic factors. Taking account of sociodemographic and housing characteristics, environmental concern or personality traits has comparatively little relevance,",
+   "evidence_file": "eq_diw_sp977_drivers.txt"
+  },
+  {
+   "topic": "drivers_tenure_split_incentive",
+   "title": "Jacksohn et al. (2018), SOEPpapers 977",
+   "claim": "German SOEP adoption studies restrict samples to owners (and exclude high-rises) because only owners can decide on PV — the structural tenure barrier.",
+   "url": "http://diw.de/documents/publikationen/73/diw_01.c.596110.de/diw_sp0977.pdf",
+   "quote": "First, we restrict our attention to households owning their accommodation, because only owners can decide whether or not to invest in a renewable facility at their own discretion. Second, we omit households living in high-rise buildings, since it is highly unlikely that they will be able to install a renewable facility on their own account",
+   "evidence_file": "eq_diw_sp977_drivers.txt"
+  },
+  {
+   "topic": "drivers_income_ownership",
+   "title": "De Groote, Pepermans & Verboven (2016), Energy Economics 59:45–57 (working-paper version)",
+   "claim": "Flanders: strong unconditional income effect ('Matthew effect' in PV subsidies), largely via energy use, home ownership and suitable houses.",
+   "url": "https://docs.vlaamsparlement.be/docs/biblio/opendigibib/monografie/2016/343_heterogeneity_in_the_adoption_of_photovoltaic_systems.pdf",
+   "quote": "Second, there is a strong unconditional income effect, implying a Matthew effect in the subsidization of PVs. Our third finding is however that this income effect is largely driven by the fact that wealthier households are more likely to adopt because they tend to be higher users, are more frequent house owners, or own houses that are better suited for PV.",
+   "evidence_file": "eq_degroote2016.txt"
+  },
+  {
+   "topic": "drivers_housing_education",
+   "title": "Balta-Ozkan, Yildirim & Connor (2015), Energy Economics",
+   "claim": "UK NUTS3: education and housing types among determinants of PV uptake, with significant regional spillovers.",
+   "url": "https://doi.org/10.1016/j.eneco.2015.08.003",
+   "quote": "Empirical results indicate that demand for electricity, population density, pollution levels, education level of households and housing types are among the factors that affect PV uptake in a region.",
+   "evidence_file": "eq_baltaozkan2015.txt"
+  },
+  {
+   "topic": "drivers_balkon",
+   "title": "HTW Berlin / Verbraucherzentrale NRW, Nutzung von Steckersolargeräten 2022",
+   "claim": "Plug-in (balcony) PV users in Germany are mostly male, 45+, higher-income, academic, and mostly owner-occupiers in single-family homes — not predominantly renters.",
+   "url": "https://solar.htw-berlin.de/studien/nutzung-steckersolar-2022/",
+   "quote": "Die Ergebnisse der Umfrage zeigen, dass über 92 Prozent der Nutzer:innen männlich und größtenteils in einem Alter von über 45 Jahren sind. Des Weiteren haben sie häufiger ein gehobenes Einkommen und meist einen akademischen Hintergrund. Das Steckersolar nur für Mieter:innen interessant ist, konnte die Studie nicht bestätigen. Die Nutzer:innen und Interessierten leben zumeist im Eigentum, etwa in Einfamilienhäusern und etwas häufiger in Landgemeinden.",
+   "evidence_file": "eq_htw_stecker2022.txt"
+  },
+  {
+   "topic": "drivers_balkon",
+   "title": "Bergner (2022), Nutzer:innenstudie Steckersolar 2022, HTW Berlin",
+   "claim": "Earlier surveys: ~80% of plug-in PV users were homeowners, two-thirds in detached single-family homes.",
+   "url": "https://solar.htw-berlin.de/wp-content/uploads/BERGNER-2022-Nutzungs-Studie-Steckersolar.pdf",
+   "quote": "In einer im Jahr 2016 durchgeführten Befragung unter Nutzer:innen und Interessierten waren 80 Prozent Hausei- gentümer:innen, wobei zwei Drittel der Befragten in einem alleinstehenden Einfamilienhaus wohnten.",
+   "evidence_file": "eq_htw_stecker_nutzer2022.txt"
+  },
+  {
+   "topic": "eeg_regressive",
+   "title": "Winter & Schlesewsky (2019), Energy Policy 132:344–356 (DIW listing)",
+   "claim": "SOEP 2010–2017: EEG levy costs are evenly spread (regressive) while feed-in tariff revenues flow increasingly to higher-income PV-owning households.",
+   "url": "https://www.diw.de/de/diw_01.c.797079.de/s_11964.html",
+   "quote": "We conclude that subsidy costs are almost evenly distributed among the population and are therefore regressive. At the same time, feed-in tariffs are increasingly flowing into higher-income households because PV systems are more prevalent in these households.",
+   "evidence_file": "eq_winter2019_fit_diw.txt"
+  },
+  {
+   "topic": "eeg_regressive",
+   "title": "On the redistributive effects of Germany’s feed-in tariff, Empirical Economics 46 (2014) 1339–1383",
+   "claim": "Inequality indices show Germany's feed-in tariff (levy + PV payments) is regressive.",
+   "url": "https://link.springer.com/article/10.1007/s00181-013-0728-z",
+   "quote": "The redistributive effects of the feed-in tariff are evaluated by means of inequality indices. All the indices indicate that Germany’s feed-in tariff is regressive.",
+   "evidence_file": "eq_grosche2014_fit.txt"
+  },
+  {
+   "topic": "eeg_regressive",
+   "title": "DIW Wochenbericht 41/2012, Steigende EEG-Umlage",
+   "claim": "DIW: electricity-price-raising measures incl. the EEG levy are fundamentally regressive.",
+   "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.409391.de/12-41-1.pdf",
+   "quote": "Somit wirken alle staatlichen Maßnah- men, die zu einer Steigerung des Strompreises füh- ren (EEG, Stromsteuer, Emissionshandel, Förderung der Kraft-Wärme-Kopplung), grundsätzlich regressiv.",
+   "evidence_file": "eq_diw2012_eeg.txt"
+  },
+  {
+   "topic": "eeg_regressive",
+   "title": "Frondel, Sommer & Vance (2015), The burden of Germany's energy transition (TU Dortmund Eldorado record)",
+   "claim": "In 2012, households at poverty risk spent on average 5.5% of income on electricity.",
+   "url": "https://eldorado.tu-dortmund.de/bitstreams/69a14681-fe88-433a-a339-3c1b7a8d9fcd/download",
+   "quote": "Our estimates suggest that in 2012, on average, households at poverty risk allocated 5.5% of their income to power and, hence, paid nearly as much for covering their electricity consumption as for heating purposes.",
+   "evidence_file": "eq_frondel2015_burden.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Bundesregierung, Mieterstrombericht nach § 99 EEG 2017, BT-Drs. 19/13430 (2019)",
+   "claim": "By mid-2019 only 677 Mieterstrom PV systems (~13.9 MW) were registered in the BNetzA register.",
+   "url": "https://www.clearingstelle-eeg-kwkg.de/sites/default/files/2020-05/BT-Drs_19-13430_Mieterstrombericht_nach_%C2%A7_99_des_EEG_2017_0.pdf",
+   "quote": "gister der BNetzA 677 PV-Mieterstromanlagen mit insgesamt rund 13,9 MW gemeldet.",
+   "evidence_file": "eq_mieterstrombericht2019.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Bundesregierung, Mieterstrombericht (BT-Drs. 19/13430)",
+   "claim": "Government's own assessment: Mieterstrom far below expectations; framework insufficient.",
+   "url": "https://www.clearingstelle-eeg-kwkg.de/sites/default/files/2020-05/BT-Drs_19-13430_Mieterstrombericht_nach_%C2%A7_99_des_EEG_2017_0.pdf",
+   "quote": "Insgesamt zeigt sich, dass der bishe- rige Zubau von Mieterstromanlagen mit insgesamt rund 14 MW deutlich hinter den Erwartungen bleibt. Aus diesem Grund sind auch die Förderkosten für das Modell nach zwei Jahren gering. Es wird deutlich, dass die Rahmenbedin- gungen aktuell offenbar nicht ausreichen, um Mieterstrom als nennenswertes Segment eines zusätzlichen PV-Zubaus dauerhaft zu etablieren",
+   "evidence_file": "eq_mieterstrombericht2019.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Bundesregierung, Mieterstrombericht (BT-Drs. 19/13430)",
+   "claim": "The 500 MW annual cap was used only just over 1%.",
+   "url": "https://www.clearingstelle-eeg-kwkg.de/sites/default/files/2020-05/BT-Drs_19-13430_Mieterstrombericht_nach_%C2%A7_99_des_EEG_2017_0.pdf",
+   "quote": "Das Modell bleibt damit weit hinter den Erwartungen zurück. Vor diesem Hintergrund ist der 500 MW-Deckel bisher bei weitem nicht zur Anwendung gekommen. Er wurde nur zu gut 1 % ausgenutzt.",
+   "evidence_file": "eq_mieterstrombericht2019.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "IW Köln Kurzbericht 2024 (Breddermann/Henger), Mieterstrom: Großes ungenutztes Potenzial",
+   "claim": "As of May 2024 just under 9,000 Mieterstrom systems were registered nationally; barriers include non-standard metering and processes across >900 grid operators.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2024/IW-Kurzbericht_2024-Mieterstrom.pdf",
+   "quote": "Standards in der Zählermethode, eine vereinheitlichte Abrechnung und standardisierte Meldeprozesse bei den über 900 verschiedenen Netzbetreibern sind bisher bundesweit nicht gegeben und werden daher von verschiedenen Marktakteuren gefordert. Als Folge dieser Hemmnisse wird Mieterstrom in vielen Häusern nicht angeboten. Die aktuelle Anzahl der für Mieterstrom gemeldeten Anlagen liegt im Mai 2024 laut Marktstammregister bundesweit bei knapp 9.000.",
+   "evidence_file": "eq_iw2024_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "IW Köln Kurzbericht 2024",
+   "claim": "Too few PV systems on multi-family roofs; Mieterstrom rules are a central barrier keeping it niche.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2024/IW-Kurzbericht_2024-Mieterstrom.pdf",
+   "quote": "Insbesondere auf Dächern von Mehrfamilienhäusern werden zu wenige neue PV-Anlagen installiert. Ein zentrales Hemmnis stellen die Regelungen zum Mieterstrom dar.",
+   "evidence_file": "eq_iw2024_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Ariadne-Analyse (IW Köln, 2025): Gebäude- und Mieterstrom in Deutschland",
+   "claim": "Mieterstrom/Gebäudestrom projects are far more complex than standard rooftop PV; metering, billing and the 2-year max contract term are key cost/uncertainty drivers.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+   "quote": "Ein erheblicher Kostenfaktor entsteht durch die zusätzlichen Anforderungen an Messtechnik, Abrechnung und Kundenbetreuung. Die gesetzlich festgelegte maximale Vertragslaufzeit von zwei Jahren für Stromverträge – eine Maßnahme des Verbraucher- schutzes – erschwert zudem die langfristige Planungssicherheit für Investoren.",
+   "evidence_file": "eq_ariadne_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Ariadne-Analyse (2025)",
+   "claim": "Trade-tax (Gewerbesteuer) liability of Mieterstrom sales is a barrier especially for housing companies relying on the extended trade-tax reduction.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+   "quote": "Der Verkauf von Gebäude- und Mieterstrom ist gewerbesteuerpflichtig, was zu einem möglichen Hemmnis für Unternehmen führt, wenn diese ihren Gewerbeertrag nach der sog. erweiterten gewerbesteuerlichen Kürzung (§ 9 Nr. 1 S. 2 ff. GewStG) minimieren kön- nen. Dies betrifft vor allem Wohnungsunternehmen, deren Umsätze hauptsächlich aus Vermietung und Verpachtung stammen.",
+   "evidence_file": "eq_ariadne_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Ariadne-Analyse (2025)",
+   "claim": "Mieterstrom was meant to let renter households (the majority, given 44% ownership per Zensus 2022) participate.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+   "quote": "Zudem sollten Mieterhaushalte, die aufgrund der in Deutschland geringen Wohneigentumsquote von 44 % (Zensus 2022) die Mehrheit darstellen, bessere Möglichkeiten erhalten, über PV-Anlagen auf ihrem Ge- bäude an der Energiewende zu partizipieren,",
+   "evidence_file": "eq_ariadne_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Ariadne-Analyse (2025)",
+   "claim": "Recent Mieterstrom reforms have not produced a noticeable increase of PV in multi-storey housing.",
+   "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+   "quote": "In den letzten Jahren wurden beim Mieterstrom zum Teil erhebliche Verbesserungen umgesetzt, die bislang jedoch insgesamt nicht zu einem spürbaren Anstieg des PV-Ausbaus im Geschosswohnungsbau geführt haben (BNetzA 2025c).",
+   "evidence_file": "eq_ariadne_mieterstrom.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "DIW Wochenbericht 33/2024, Ausbau der Solarenergie: viel Licht, aber auch Schatten",
+   "claim": "DIW 2024: the Mieterstrom model has so far played practically no role.",
+   "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.911098.de/24-33-1.pdf",
+   "quote": "Das sogenannte Mieterstrommodell, mit dem Mieter*innen in die Lage versetzt werden sollen, von günstigem, lokal erzeugtem Solarstrom zu profitieren, spielt bisher praktisch keine Rolle.",
+   "evidence_file": "eq_diw2024_solar.txt"
+  },
+  {
+   "topic": "mieterstrom",
+   "title": "Öko-Institut / IÖW / Ecologic (Ecornet Berlin), 2021",
+   "claim": "Tenants rate Mieterstrom positively (price key for low-income households) but the framework must be scalable to smaller multi-family buildings and transaction costs lowered.",
+   "url": "https://www.oeko.de/news/aktuelles/mieterinnen-und-mieter-koennen-von-energiewende-profitieren-wenn-die-rahmenbedingungen-stimmen/",
+   "quote": "Besonders für Haushalte mit einem geringen Nettoeinkommen ist der günstige Preis der wichtigste Grund, sich für Mieterstrom zu entscheiden. Damit mehr Mieterinnen und Mieter von diesem Angebot profitieren können, müssen aber die Rahmenbedingungen umfassend verbessert werden: Der Förderrahmen muss skalierbar sein, damit auf allen technisch geeigneten Dächern Anlagen wirtschaftlich sind – auch auf kleineren Mehrfamilienhäusern.",
+   "evidence_file": "eq_oeko_mieter.txt"
+  },
+  {
+   "topic": "mieterstrom_bremen",
+   "title": "energiekonsens (Bremer Klimaschutzagentur), PV-Strom für Mehrparteiengebäude",
+   "claim": "In Bremen most Mieterstrom service providers decline buildings with <20 units; only one local provider known.",
+   "url": "https://energiekonsens.de/aktuelles/pv-strom-fuer-mehrparteiengebaeude-auf-die-plaetze-fertig-los",
+   "quote": "Das Problem: Die meisten Dienstleister winken bei Objekten mit weniger als 20 Wohneinheiten ab. Anbieter muss man bundesweit recherchieren. In Bremen ist bislang erst ein Dienstleister bekannt, der in diesen Markt einsteigt.",
+   "evidence_file": "eq_energiekonsens_mfh.txt"
+  },
+  {
+   "topic": "mieterstrom_bremen",
+   "title": "energiekonsens, PV-Strom für Mehrparteiengebäude",
+   "claim": "Hardly any property manager/WEG can carry Mieterstrom metering and admin themselves.",
+   "url": "https://energiekonsens.de/aktuelles/pv-strom-fuer-mehrparteiengebaeude-auf-die-plaetze-fertig-los",
+   "quote": "Allerdings ist kaum eine Hausverwaltung oder Eigentümergemeinschaft bereit oder in der Lage, den Mess- und Verwaltungsaufwand selbst zu tragen.",
+   "evidence_file": "eq_energiekonsens_mfh.txt"
+  },
+  {
+   "topic": "bremen_tenure",
+   "title": "Statistisches Landesamt Bremen, Zensus 2022 Regionaltabelle Gebäude & Wohnungen (xlsx; machine-extracted cells)",
+   "claim": "Zensus 2022 Eigentümerquote (owner-occupied share of occupied dwellings in residential buildings): Stadt Bremen 36.96%.",
+   "url": "https://www.statistik.bremen.de/sixcms/media.php/13/04_HB_Regionaltabelle_Geb%C3%A4ude_Wohnungen_Z22_final.xlsx",
+   "quote": "Bremen, Stadt: Wohnungen in Wohngebäuden (ohne Wohnheime) = 291926; in Gebäuden mit 1 Wohnung = 82670; von Eigentümer/-in bewohnt = 104806; zu Wohnzwecken vermietet = 184897; Eigentümerquote (%) = 36,96",
+   "evidence_file": "eq_zensus_hb_wohnungen_xlsx.txt"
+  },
+  {
+   "topic": "bremen_tenure",
+   "title": "Statistisches Landesamt Bremen, Zensus 2022 Regionaltabelle (xlsx)",
+   "claim": "Zensus 2022 Eigentümerquote Bremerhaven 30.12%; Land Bremen 35.77%.",
+   "url": "https://www.statistik.bremen.de/sixcms/media.php/13/04_HB_Regionaltabelle_Geb%C3%A4ude_Wohnungen_Z22_final.xlsx",
+   "quote": "Bremerhaven, Stadt: Wohnungen in Wohngebäuden (ohne Wohnheime) = 63496; in Gebäuden mit 1 Wohnung = 14387; von Eigentümer/-in bewohnt = 18056; zu Wohnzwecken vermietet = 42707; Eigentümerquote (%) = 30,12",
+   "evidence_file": "eq_zensus_hb_wohnungen_xlsx.txt"
+  },
+  {
+   "topic": "bremen_building_type",
+   "title": "Statistisches Landesamt Bremen, Zensus 2022 Regionaltabelle (xlsx)",
+   "claim": "Stadt Bremen building stock is dominated by terraced houses: 69,448 of 122,273 residential buildings are 'gereihtes Haus' (~57%); Bremerhaven 6,751 of 21,765 (detached dominates: 12,066).",
+   "url": "https://www.statistik.bremen.de/sixcms/media.php/13/04_HB_Regionaltabelle_Geb%C3%A4ude_Wohnungen_Z22_final.xlsx",
+   "quote": "Bremen, Stadt: Gebäude mit Wohnraum insgesamt = 122273; freistehendes Haus = 34468; Doppelhaushälfte = 14824; gereihtes Haus = 69448; anderer Gebäudetyp = 3530; Gebäude mit 1 Wohnung = 82670",
+   "evidence_file": "eq_zensus_hb_wohnungen_xlsx.txt"
+  },
+  {
+   "topic": "bremen_building_type",
+   "title": "Statistisches Landesamt Bremen, Zensus 2022 Regionaltabelle (xlsx)",
+   "claim": "Bremerhaven building types (Zensus 2022).",
+   "url": "https://www.statistik.bremen.de/sixcms/media.php/13/04_HB_Regionaltabelle_Geb%C3%A4ude_Wohnungen_Z22_final.xlsx",
+   "quote": "Bremerhaven, Stadt: Gebäude mit Wohnraum insgesamt = 21765; freistehendes Haus = 12066; Doppelhaushälfte = 2416; gereihtes Haus = 6751; anderer Gebäudetyp = 528; Gebäude mit 1 Wohnung = 14388",
+   "evidence_file": "eq_zensus_hb_wohnungen_xlsx.txt"
+  },
+  {
+   "topic": "bremen_tenure",
+   "title": "Statistisches Landesamt Bremen, PM 25.06.2024 (Zensus 2022)",
+   "claim": "Land Bremen: 62.4% of dwellings rented, 33.7% owner-occupied (share of all dwellings incl. vacant).",
+   "url": "https://www.statistik.bremen.de/publikationen/pressemitteilungen/pressemitteilungen-2024/2024-06-25-zensus-2022-durchschnittliche-nettokaltmiete-im-land-bremen-bei-7-34-euro-pro-quadratmeter-55420",
+   "quote": "Von den Wohnungen waren 62,4 Prozent vermietet, während 33,7 Prozent von Eigentümer:innen bewohnt waren.",
+   "evidence_file": "eq_statistik_hb_miete_pm.txt"
+  },
+  {
+   "topic": "bremen_ownership_structure",
+   "title": "Statistisches Landesamt Bremen, PM 25.06.2024",
+   "claim": "Ownership: 24.3% of dwellings in WEG-divided buildings; 14.4% municipal/municipal companies; 7.5% private housing companies.",
+   "url": "https://www.statistik.bremen.de/publikationen/pressemitteilungen/pressemitteilungen-2024/2024-06-25-zensus-2022-durchschnittliche-nettokaltmiete-im-land-bremen-bei-7-34-euro-pro-quadratmeter-55420",
+   "quote": "Weitere 24,3 Prozent gehörten einer Gemeinschaft von Wohnungseigentümer:innen (dies ist der Fall, wenn ein Gebäude in Eigentumswohnungen aufgeteilt ist). Der Kommune oder einem kommunalen Wohnungsunternehmen gehörten 14,4 Prozent der Wohnungen und privatwirtschaftlichen Wohnungsunternehmen 7,5 Prozent.",
+   "evidence_file": "eq_statistik_hb_miete_pm.txt"
+  },
+  {
+   "topic": "bremen_tenure",
+   "title": "Destatis, Eigentumsquote nach Bundesländern 2022 (Mikrozensus)",
+   "claim": "Mikrozensus 2022 household-level ownership rate: Bremen 32.0% vs Germany 41.9% (different basis than Zensus).",
+   "url": "https://destatis.de/DE/Themen/Gesellschaft-Umwelt/Wohnen/Tabellen/tabelle-eigentumsquote.html",
+   "quote": "| Bremen | 341 | 109 | 32,0 |",
+   "evidence_file": "eq_zensus_eigentumsquote_destatis.txt"
+  },
+  {
+   "topic": "bremen_building_type",
+   "title": "WFB Bremen, Typical Bremen house (2014)",
+   "claim": "Historic Bremen policy favoured terraced single-family 'Bremer Haus' instead of tenements.",
+   "url": "https://wfb-bremen.de/en/page/bremen-invest/bremen-house",
+   "quote": "In Bremen, the decision was made to prohibit this practice. Instead, terraced houses were built, designed as self-contained family homes.",
+   "evidence_file": "eq_bremen_house_wfb.txt"
+  },
+  {
+   "topic": "bremen_building_type",
+   "title": "energiekonsens, PV-Strom für Mehrparteiengebäude",
+   "claim": "Bremen's climate agency notes that, in contrast to the typical Bremer Haus, many multi-unit buildings have large roof areas.",
+   "url": "https://energiekonsens.de/aktuelles/pv-strom-fuer-mehrparteiengebaeude-auf-die-plaetze-fertig-los",
+   "quote": "Im Gegensatz zum typischen Bremer Haus erfreuen sich viele Mehrparteiengebäude links und rechts der Weser einer großen Dachfläche.",
+   "evidence_file": "eq_energiekonsens_mfh.txt"
+  },
+  {
+   "topic": "bremen_poverty",
+   "title": "Arbeitnehmerkammer Bremen, KammerKompakt Armut (Feb 2025)",
+   "claim": "27.4% of Stadt Bremen residents were income-poor in 2023; more than a third in Bremerhaven.",
+   "url": "https://vahreport.de/images/images_allgemein_25/AKB_KK_6_Seiter_Armut_Klima_final_web_14_02_2025.pdf",
+   "quote": "In der Stadt Bremen lebten 2023 mehr als ein Vier- tel der Bürger*innen (27,4 Prozent) mit weniger als 60 Prozent des mittleren Einkommens, in Bremerhaven mehr als ein Drit- tel.",
+   "evidence_file": "eq_akb_armut_klima.txt"
+  },
+  {
+   "topic": "bremen_poverty_spatial",
+   "title": "Arbeitnehmerkammer Bremen, KammerKompakt Armut (Feb 2025)",
+   "claim": "Bürgergeld receipt is spatially concentrated: ~1 in 5 in Blumenthal, Vegesack, Huchting, Vahr; 1 in 4 in Gröpelingen.",
+   "url": "https://vahreport.de/images/images_allgemein_25/AKB_KK_6_Seiter_Armut_Klima_final_web_14_02_2025.pdf",
+   "quote": "In der Stadt Bremen leben besonders viele Bürgergeldempfän- ger*innen in den Stadtteilen Blumenthal, Vegesack und Huch- ting sowie in der Vahr. Dort ist etwa jede*r Fünfte auf Bürger- geld angewiesen, in Gröpelingen ist es sogar jede*r Vierte.",
+   "evidence_file": "eq_akb_armut_klima.txt"
+  },
+  {
+   "topic": "bremen_poverty_spatial",
+   "title": "Arbeitnehmerkammer Bremen, KammerKompakt Armut (Feb 2025)",
+   "claim": "Many poor households in Bremen live in quarters with little green space and poorly insulated buildings that cause high energy costs.",
+   "url": "https://vahreport.de/images/images_allgemein_25/AKB_KK_6_Seiter_Armut_Klima_final_web_14_02_2025.pdf",
+   "quote": "Auch in Bremen leben viele von ihnen in Wohnquartieren mit wenig Grünflächen und schlecht gedämm- ten Gebäuden: Letztere sind im Sommer zu heiß und im Win- ter zu kalt, und viele verursachen hohe Energiekosten.",
+   "evidence_file": "eq_akb_armut_klima.txt"
+  },
+  {
+   "topic": "bremen_poverty_spatial",
+   "title": "BIAJ (Schröder), Bremer Stadtteile: Personen in SGB-II-Bedarfsgemeinschaften Ende 2022",
+   "claim": "SGB II share (pop. under retirement age) ranged from 4.2% in Oberneuland to 32.9% in Gröpelingen (end 2022).",
+   "url": "http://www.biaj.de/images/2023-12-09_personen_in_sgb2-bedarfsgemeinschaften_stadtteile_bremen_ende-2022_biaj-mat-teil-1.pdf",
+   "quote": "In den Bremer Stadtteilen reichte dieser Anteil von 4,2 Prozent im Stadtteil Oberneuland bis 32,9 Prozent im Stadtteil Gröpelingen.",
+   "evidence_file": "eq_biaj_sgb2_stadtteile.txt"
+  },
+  {
+   "topic": "bremen_poverty_spatial",
+   "title": "Senat Bremen, Sozialmonitoring für das Land Bremen (Vorlage, Nov 2025)",
+   "claim": "Sozialindex 2023: high-status Ortsteile mostly in the east; low/very-low status concentrated in Bremen West.",
+   "url": "https://www.senatspressestelle.bremen.de/sixcms/media.php/13/20251106_Sozialmonitoring_LHB.pdf",
+   "quote": "Die Ortsteile mit hohem Status liegen überwiegend im Bremer Osten. • Wie auch in 2018 konzentrieren sich im Bremer Westen Ortsteile mit niedrigem und sehr niedrigem Status.",
+   "evidence_file": "eq_senat_sozialmonitoring2025.txt"
+  },
+  {
+   "topic": "bremen_poverty_spatial",
+   "title": "Senatorin für Soziales, Sozialmonitoring 2025",
+   "claim": "5 Ortsteile very-low, 15 low, 46 medium, 15 high status (2023).",
+   "url": "https://www.soziales.bremen.de/sixcms/media.php/13/Sozialmonitoring%202025.pdf",
+   "quote": "Fünf Ortsteile weisen einen sehr niedrigen Status, 15 Ortsteile einen niedrigen Status, 46 Ortsteile einen mittleren Status und 15 Ortsteile einen hohen Status auf.",
+   "evidence_file": "eq_sozialmonitoring2025_full.txt"
+  },
+  {
+   "topic": "bremen_income_spatial",
+   "title": "Senatorin für Soziales, Sozialmonitoring 2025",
+   "claim": "Share of taxpayers with income >€125k (2020): Borgfeld 8.0%, Horn-Lehe 7.6%, Schwachhausen 5.1% vs Gröpelingen 0.2%.",
+   "url": "https://www.soziales.bremen.de/sixcms/media.php/13/Sozialmonitoring%202025.pdf",
+   "quote": "Im Jahr 2020 war der Anteil der Steuerpflichtigen mit einem Einkommen >125.000 Euro in den Stadtteilen Borgfeld (8,0%), Horn-Lehe (7,6%) und Schwachhausen (5,1%). Am niedrigsten war er in Gröpelingen (0,2%), und in Woltmershausen, Vahr und Huchting mit jeweils 0,5%.",
+   "evidence_file": "eq_sozialmonitoring2025_full.txt"
+  },
+  {
+   "topic": "bremen_poverty",
+   "title": "Paritätischer Bremen, Armutsbericht 2026",
+   "claim": "Bremen remains the Land with by far the highest poverty rate (27.5%, 2025).",
+   "url": "https://paritaet-bremen.de/armutsbericht2026",
+   "quote": "In Bremen steigt die Armutsquote auf 27,5 Prozent, damit bleibt Bremen das Bundesland mit der mit Abstand höchsten Armutsquote.",
+   "evidence_file": "eq_paritaet_armut2026.txt"
+  },
+  {
+   "topic": "bremen_large_estates",
+   "title": "GEWOBA Magazin, 50 Jahre Tenever",
+   "claim": "Osterholz-Tenever was built in the 1970s as a 'Demonstrativbauvorhaben' with more than 2,000 flats.",
+   "url": "https://gewoba-magazin.de/magazine-page/50-jahre-tenever-vom-problemquartier-zum-familienviertel/",
+   "quote": "Osterholz-Tenever wurde in den 1970er-Jahren mit mehr als 2.000 Wohnungen als Demonstrativbauvorhaben errichtet.",
+   "evidence_file": "eq_gewoba_tenever.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "GEWOBA press release, Bilanz 2024",
+   "claim": "GEWOBA operates 62 PV systems (~2,000 kWp) via its subsidiary GEWOBA Energie (as of the 2024 results release).",
+   "url": "https://www.gewoba.de/presse/mitteilung/gewoba-vorstand-zieht-positive-bilanz-fuer-2024",
+   "quote": "Damit verfügt die GEWOBA aktuell über 62 PV-​Anlagen mit einer Gesamtleistung von knapp 2.000 Kilowatt Peak.",
+   "evidence_file": "eq_gewoba_pm2024.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "GEWOBA press release, Bilanz 2024",
+   "claim": "GEWOBA PV target for 2029.",
+   "url": "https://www.gewoba.de/presse/mitteilung/gewoba-vorstand-zieht-positive-bilanz-fuer-2024",
+   "quote": "Bis 2029 wollen wir 152 PV-​Anlagen mit einer Gesamtleistung von rund 5.300 Kilowatt Peak betreiben“, erklärt Anja Passlack.",
+   "evidence_file": "eq_gewoba_pm2024.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "GEWOBA Story-Map, Photovoltaikanlage Krummenacker (2024)",
+   "claim": "Example GEWOBA Mieterstrom project after roof renovation.",
+   "url": "https://www.gewoba.de/story-map/themen/umwelt/photovoltaikanlage-krummenacker/",
+   "quote": "Mithilfe von Photovoltaik wird aus Sonnenenergie bezahlbarer Mieterstrom.",
+   "evidence_file": "eq_gewoba_krummenacker.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "Mitteilung des Senats 19.12.2023 (Photovoltaik-Ausbau), incl. GEWOBA/BREBAU statements",
+   "claim": "GEWOBA: PV is not permitted on its high-rise buildings because of BremLBO fire-safety rules.",
+   "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+   "quote": "Aufgrund der gesteigerten Anforderungen der Bremischen Landesbauordnung an die Einhaltung brandschutzrechtlicher Bestimmungen in Hochhäusern (§ 2 Abs. 4 Nr. 1 BremLBO) sind PV-Anlagen dort unzulässig.",
+   "evidence_file": "eq_senat_pv_ausbau2023.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "Mitteilung des Senats 19.12.2023",
+   "claim": "Since 2022 GEWOBA has been fitting 2,000–3,000 flats per year with new electrical infrastructure (precondition for PV/electrification).",
+   "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+   "quote": "Seit dem Jahr 2022 stattet die GEWOBA zwischen 2.000 und 3.000 Wohnungen pro Jahr mit einer neuen Elektroinfrastruktur aus.",
+   "evidence_file": "eq_senat_pv_ausbau2023.txt"
+  },
+  {
+   "topic": "bremen_housing_companies_pv",
+   "title": "Green Planet Energy press release 13.02.2026 (BREBAU Mieterstrom)",
+   "claim": "BREBAU's first Mieterstrom project with Green Planet Energy supplies 36 units from PV totalling 59.4 kWp.",
+   "url": "https://green-planet-energy.de/presse/artikel/mehr-mieterstrom-fuer-bremen-solarstrom-vom-eigenen-dach-fuer-36-haushalte",
+   "quote": "Die BREBAU GmbH und die Hamburger Energiegenossenschaft Green Planet Energy versorgen damit 36 Wohneinheiten mit jeweils einer PV-Anlage von 29,7 und in Summe 59,4 Kilowattpeak (kWp).",
+   "evidence_file": "eq_brebau_gpe.txt"
+  },
+  {
+   "topic": "bremen_policy",
+   "title": "Mitteilung des Senats 19.12.2023",
+   "claim": "Senate strategy: make municipal housing companies solar role models and push Mieterstrom.",
+   "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+   "quote": "Im gebäudeintegrierten Kontext ist ein strategisches Ziel, die kommunalen Wohnungsbauge- sellschaften zu Vorbildern für die Solarnutzung zu machen und auf eine verstärkte Umsetzung von Mieterstrommodellen abzustellen.",
+   "evidence_file": "eq_senat_pv_ausbau2023.txt"
+  },
+  {
+   "topic": "bremen_policy",
+   "title": "SKUMS, Bremisches Solargesetz (BremSolarG)",
+   "claim": "BremSolarG: PV on ≥50% of roof for new builds from 1 July 2025; retrofit duty after roof renovation from 1 July 2024.",
+   "url": "https://umwelt.bremen.de/klima/energie/bremisches-solargesetz-bremsolarg-2155612",
+   "quote": "Es legt eine allgemeine Pflicht für Bauherr*innen fest, ab dem 1. Juli 2025 auf mindestens 50 Prozent der Dachfläche von Neubauten Photovoltaikanlagen zu installieren und zu betreiben.",
+   "evidence_file": "eq_bremsolarg.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "Senatspressestelle/energiekonsens PM 18.03.2024",
+   "claim": "energiekonsens PLZ analysis: most PV systems in 28357 (Borgfeld, 558), 27578 (Bremerhaven-Lehe/Leherheide, 425), 28279 (Arsten/Habenhausen, 417).",
+   "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/ueber-100-megawatt-photovoltaik-leistung-im-land-bremen-in-betrieb-443538",
+   "quote": "Der Postleitzahlbereich 28357 – insbesondere in Borgfeld – führt mit 558 PV-Anlagen die Liste an, gefolgt von 27578 (Bremerhaven-Lehe / Leherheide) mit 425 Anlagen und 28279 (Arsten / Habenhausen) mit 417 Anlagen.",
+   "evidence_file": "eq_senat_100mw_pm.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "Senatspressestelle/energiekonsens PM 18.03.2024",
+   "claim": "Land Bremen passed 100 MWp (March 2024): >5,500 systems in Bremen, ~1,400 in Bremerhaven.",
+   "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/ueber-100-megawatt-photovoltaik-leistung-im-land-bremen-in-betrieb-443538",
+   "quote": "Erreicht wurde dies mit mehr 5.500 PV-Anlagen in Bremen und weiteren gut 1.400 Anlagen in Bremerhaven.",
+   "evidence_file": "eq_senat_100mw_pm.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "Mitteilung des Senats 19.12.2023",
+   "claim": "Solar uptake grew much faster in Stadt Bremen than in Bremerhaven (2019–2023).",
+   "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+   "quote": "In beiden Stadtge- meinden ist ein positiver Wachstumstrend deutlich erkennbar, wobei sich die solare Erschlie- ßung im Stadtgebiet Bremen noch wesentlich schneller entwickelt als in Bremerhaven.",
+   "evidence_file": "eq_senat_pv_ausbau2023.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "Mitteilung des Senats 19.12.2023",
+   "claim": "Land Bremen PV capacity rose from 46.2 MWp (2019) to 89.5 MWp (30.09.2023).",
+   "url": "https://www.rathaus.bremen.de/sixcms/media.php/13/top%208_20231219_Photovoltaik_Ausbau.pdf",
+   "quote": "Im Zeitraum 2019 bis 2023 ist die potentielle Solarstrom-Leistung im Land Bremen von 46,2 MWp auf 89,5 MWp (Stand 30.09.2023) gestiegen.",
+   "evidence_file": "eq_senat_pv_ausbau2023.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "SKUMS, Solarenergie in Bremen (2025/26)",
+   "claim": "Land Bremen PV capacity ~188 MW by end 2025: 150 MW in Stadt Bremen, 38 MW in Bremerhaven.",
+   "url": "https://umwelt.bremen.de/klima/energie/erneuerbare-energien/solarenergie-23704",
+   "quote": "Zusammen liefern sie rund 188 Megawatt Leistung: 150 MW in Bremen und 38 MW in Bremerhaven",
+   "evidence_file": "eq_umwelt_hb_solarenergie.txt"
+  },
+  {
+   "topic": "bremen_pv_distribution",
+   "title": "SKUMS, Solarenergie in Bremen",
+   "claim": "About 6,300 plug-in systems in operation in 2025.",
+   "url": "https://umwelt.bremen.de/klima/energie/erneuerbare-energien/solarenergie-23704",
+   "quote": "Stecker-Solar-Anlagen boomen – 2025 waren ca. 6300 Balkonkraftwerke in Betrieb",
+   "evidence_file": "eq_umwelt_hb_solarenergie.txt"
+  },
+  {
+   "topic": "bremen_solar_potential",
+   "title": "Senatspressestelle PM 07.01.2020, Grün- und Solardachkataster",
+   "claim": "Solarkataster (Jan 2020): ~10 million m² of roof in Stadt Bremen well/very well suited ≈1,500 MW theoretical PV.",
+   "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/welches-dach-hilft-im-kampf-gegen-den-klimawandel-gruen-und-solardachkataster-zeigen-potentiale-fuer-dachbegruenung-und-solarnutzung-328858",
+   "quote": "Die stadtgebietsweite Sicht zeigt, dass etwa 10 Millionen Quadratmeter Dachflächen in Bremen für eine Solarnutzung gut oder sogar sehr gut geeignet sind. Das bedeutet rund 1.500 Megawatt (MW) Photovoltaik (PV)-Leistung, allerdings nur theoretisch.",
+   "evidence_file": "eq_senat_solarkataster_pm.txt"
+  },
+  {
+   "topic": "bremen_solar_potential",
+   "title": "Senatspressestelle PM 07.01.2020",
+   "claim": "Realistic potential 350–400 MW; ~10% exploited (2020).",
+   "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/welches-dach-hilft-im-kampf-gegen-den-klimawandel-gruen-und-solardachkataster-zeigen-potentiale-fuer-dachbegruenung-und-solarnutzung-328858",
+   "quote": "Tatsächlich sind aktuell in Bremen 36 MW PV-Leistung am Netz, also um die 10 Prozent des realistischen Potenzials.",
+   "evidence_file": "eq_senat_solarkataster_pm.txt"
+  },
+  {
+   "topic": "bremen_solar_potential",
+   "title": "DIW Wochenbericht 33/2024",
+   "claim": "DIW 2024: besides the city-states, several Flächenländer have barely exploited their ground-mounted PV potential.",
+   "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.911098.de/24-33-1.pdf",
+   "quote": "Neben den Stadtstaaten haben auch einige Flächenländer ihre Freiflä- chenpotenziale noch kaum erschlossen,",
+   "evidence_file": "eq_diw2024_solar.txt"
+  }
+ ],
+ "not_found": [
+  "Arbeitnehmerkammer Bremen full 'Armut in Bremen' report and Senate 'Lebenslagenbericht' (only 2nd ARB 2015 located, not fetched); used AKB KammerKompakt (Feb 2025, hosted at vahreport.de) and Sozialmonitoring 2025 instead",
+  "SGB II / Bürgergeld rates by Bremerhaven Stadtteil (Leherheide, Grünhöhe, Lehe) — AKB notes no comparable Bremerhaven map for 2023; no official source fetched",
+  "Stäwog (Bremerhaven) PV or Mieterstrom programme — Geschäftsbericht 2025 page fetched mentions PV only on a police new build; no tenant PV programme found",
+  "BREBAU PV portfolio size beyond the single 36-unit Mieterstrom project (Feb 2026)",
+  "Share of suitable roofs (in % of all roofs) from Solarkataster Bremen/Bremerhaven — only absolute area (~10 million m², ~1,500 MW theoretical, 2020) found; no Bremerhaven aggregate",
+  "Postcode-level PV distribution beyond energiekonsens' top-3 PLZ list (March 2024); no published small-area equity analysis of PV in Bremen found",
+  "Dharshing (2017) ERSS spatial econometric German PV study — paywalled, not extracted",
+  "Schaffer & Brun (2015) ERSS German socio-economic drivers — abstract not in extracted text; not used",
+  "Current BMWK/BNetzA Mieterstrom statistics (2025/26 capacity of Mieterstromzuschlag systems) — latest figure used is IW (~9,000 systems, May 2024)",
+  "Zensus 2022 owner-occupancy by Bremen Ortsteil/postcode — not extracted here (Zensus grid/Gemeinde tables only); needs Zensusdatenbank/Atlas download"
+ ]
+}
