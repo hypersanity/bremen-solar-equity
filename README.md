@@ -29,11 +29,7 @@ The repository is meant partly as a dated record of what an AI agent could do un
 
 ### The workflow
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/diagrams/workflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/diagrams/workflow-light.svg">
-  <img width="700" alt="Workflow: the brief goes to the Hermes agent, which runs two research subagents and the data pipeline, writes version 1, rewrites it to the style guide and has an independent reviewer subagent check it, producing version 2" src="docs/diagrams/workflow-light.svg">
-</picture>
+<img width="700" alt="Workflow: the brief goes to the Hermes agent, which runs two research subagents and the data pipeline, writes version 1, rewrites it to the style guide and has an independent reviewer subagent check it, producing version 2" src="docs/diagrams/workflow.svg">
 
 The agent ran three subagents, all on the same model:
 
@@ -45,15 +41,11 @@ The agent ran three subagents, all on the same model:
 
 ### Wall-clock time
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/diagrams/timeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/diagrams/timeline-light.svg">
-  <img alt="Gantt chart: about 51 minutes from the first download at 20:01 to the final report at 20:51 on 10 November 2026" src="docs/diagrams/timeline-light.svg">
-</picture>
+<img alt="Gantt chart: about 51 minutes from the first download at 20:01 to the final report at 20:51 on 10 November 2026" src="docs/diagrams/timeline.svg">
 
 About 40 minutes passed from the first download to version 1, and 51 minutes to the final version. The times come from file timestamps, not estimates.
 
-Both diagrams were rendered to SVG with [Pele](https://github.com/obsidianmd/pele), Obsidian's Mermaid renderer (v1.13.0), in light and dark variants. The Mermaid sources are in [`docs/diagrams/`](docs/diagrams/).
+Both diagrams were rendered to SVG with [Pele](https://github.com/obsidianmd/pele), Obsidian's Mermaid renderer (v1.13.0), each on its own dark panel so it reads the same in GitHub's light and dark themes. The Mermaid sources are in [`docs/diagrams/`](docs/diagrams/).
 
 ### Limits
 
